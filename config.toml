@@ -6,15 +6,10 @@ sectionPagesMenu = "menu"
 DefaultContentLanguage = "de"
 MetaDataFormat = "toml"
 
-[menu]
-    [[menu.main]]
-        identifier = "pakistan"
-        name       = "Pakistan"
-        url        = "/posts/pakistan"
-        weight     = 0
 
-    [[menu.main]]
-        identifier = "cr-nic"
-        name       = "Costa Rica / Nicaragua"
-        url        = "/posts/cr-nic"
-        weight     = 0
+# [menu]
+#     [[menu.main]]
+#         identifier = "about"
+#         name       = "Info"
+#         url        = "/about"
+#         weight     = 0
