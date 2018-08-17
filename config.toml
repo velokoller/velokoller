@@ -6,6 +6,11 @@ sectionPagesMenu = "menu"
 DefaultContentLanguage = "de"
 MetaDataFormat = "toml"
 
+[params]
+    ShortDateFmt = "02.01.2006"
+    LongDateFmt = "2. Januar, 2006"
+    SectionSort = "asc"
+    Copyright = "Zeno Koller, Gerold Koller"
 
 # [menu]
 #     [[menu.main]]
