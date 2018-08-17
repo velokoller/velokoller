@@ -1,0 +1,3 @@
+[submodule "themes/koller"]
+	path = themes/koller
+	url = git@github.com:zenokoller/koller.git
