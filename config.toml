@@ -1,0 +1,20 @@
+baseURL = "http://velokoller.github.io"
+languageCode = "de-ch"
+title = "velokoller"
+theme = "koller"
+sectionPagesMenu = "menu"
+DefaultContentLanguage = "de"
+MetaDataFormat = "toml"
+
+[menu]
+    [[menu.main]]
+        identifier = "pakistan"
+        name       = "Pakistan"
+        url        = "/posts/pakistan"
+        weight     = 0
+
+    [[menu.main]]
+        identifier = "cr-nic"
+        name       = "Costa Rica / Nicaragua"
+        url        = "/posts/cr-nic"
+        weight     = 0
