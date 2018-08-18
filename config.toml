@@ -1,4 +1,4 @@
-baseURL = "http://velokoller.github.io"
+baseURL = "https://velokoller.github.io/"
 languageCode = "de-ch"
 title = "velokoller"
 theme = "koller"
@@ -10,7 +10,7 @@ MetaDataFormat = "toml"
     ShortDateFmt = "02.01.2006"
     LongDateFmt = "2. Januar, 2006"
     SectionSort = "asc"
-    Copyright = "Zeno Koller, Gerold Koller"
+    Copyright = "2018 Zeno Koller, Gerold Koller"
 
 # [menu]
 #     [[menu.main]]
