@@ -11,6 +11,9 @@ MetaDataFormat = "toml"
     LongDateFmt = "2. Januar, 2006"
     SectionSort = "asc"
     Copyright = "2018 Zeno Koller, Gerold Koller"
+    PrevLabel = "← zurück"
+    NextLabel = "vor →"
+    IndexLabel = "Index"
 
 # [menu]
 #     [[menu.main]]
