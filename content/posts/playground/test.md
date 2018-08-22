@@ -8,7 +8,9 @@ lat = "46.36979258131599"
 lon = "8.212419748306276"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempus ultrices lacinia. Aenean auctor dictum auctor. Phasellus a sodales enim. Nunc blandit ullamcorper enim, eu fringilla sapien rhoncus condimentum. Integer tristique sem vitae magna aliquet, nec imperdiet mi congue. Nunc tempor blandit magna, a mollis ante tincidunt sed. Curabitur laoreet commodo mi ut laoreet. Vestibulum nisi metus, sodales ut mollis non, porta et libero. Vestibulum tempus, velit ac scelerisque vestibulum, enim augue blandit ipsum, et tempus dui mi vitae risus. Nam imperdiet ligula diam, ac tempor magna lacinia mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc egestas, augue et egestas luctus, nibh arcu placerat velit, nec accumsan massa leo eu arcu. Fusce laoreet fringilla libero, id suscipit magna ultrices non.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempus ultrices lacinia. Aenean auctor dictum auctor. Phasellus a sodales enim. Nunc blandit ullamcorper enim, eu fringilla sapien rhoncus condimentum. Integer tristique sem vitae magna aliquet, nec imperdiet mi congue. Nunc tempor blandit magna, a mollis ante tincidunt sed. Curabitur laoreet commodo mi ut laoreet. Vestibulum nisi metus, sodales ut mollis non, porta et libero. Vestibulum tempus, velit ac scelerisque vestibulum, enim augue blandit ipsum, et tempus dui mi vitae risus. Nam imperdiet ligula diam, ac tempor magna lacinia mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc egestas, augue et egestas luctus, nibh arcu placerat velit, nec accumsan massa leo eu arcu. Fusce laoreet fringilla libero, id suscipit magna ultrices non. You can create footnotes like this[^1].
+
+[^1]: Here is the *text* of the **footnote**.
 
 {{< aside >}}
 

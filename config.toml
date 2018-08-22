@@ -5,6 +5,7 @@ theme = "koller"
 sectionPagesMenu = "menu"
 DefaultContentLanguage = "de"
 MetaDataFormat = "toml"
+footnoteReturnLinkContents = "↩"
 
 [params]
     ShortDateFmt = "02.01.2006"
