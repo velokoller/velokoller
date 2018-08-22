@@ -1,7 +1,7 @@
 +++
 title = "Hello, World!"
 date = 2018-08-20T09:16:21+02:00
-draft = true
+draft = false
 
 [[coordinates]]
 lat = "46.36979258131599"
