@@ -15,6 +15,7 @@ footnoteReturnLinkContents = "↩"
     PrevLabel = "← zurück"
     NextLabel = "vor →"
     IndexLabel = "Index"
+    AttributionLabel = "Quelle"
 
 # [menu]
 #     [[menu.main]]

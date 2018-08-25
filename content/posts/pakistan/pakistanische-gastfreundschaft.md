@@ -7,7 +7,7 @@ lat = "36.3264073"
 lon = "74.6643157"
 +++
 
-{{< figure src="../images/karimabad.jpeg" caption="Blick vom Baltit Fort auf Karimabad" attr="Quelle: Usmanmiski, CC BY-SA 3.0" attrlink="https://commons.wikimedia.org" >}}
+{{< figure src="../images/karimabad.jpeg" caption="Blick vom Baltit Fort auf Karimabad" attr="Usmanmiski, CC BY-SA 3.0" attrlink="https://commons.wikimedia.org" >}}
 
 {{% aside %}}
 
@@ -71,7 +71,7 @@ zuzugreifen. Das Brot sei selbst gebacken; dem Mehl habe er als
 Flüssigkeit nur Milch beigegeben. Auch die Aprikosenkonfitüre stammte
 aus der eigenen Küche.
 
-{{< figure src="../images/haider.jpeg" caption="Mr. Haider aus Karimabad (verstorben im Januar 2018)" attr="Quelle: flickr" attrlink="https://flickr.com" >}}
+{{< figure src="../images/haider.jpeg" caption="Mr. Haider aus Karimabad (verstorben im Januar 2018)" attr="flickr" attrlink="https://flickr.com" >}}
 
 Da sass ich also, trank Tee und ass frisches, knuspriges Brot. Die Welt
 kam mir im Vergleich zum Vortag wie ausgewechselt vor. – Ausser mir
@@ -122,9 +122,9 @@ sich das Wetter auch am folgenden Tag kaum ändern würde, wollte ich am
 frühen Morgen losfahren. Bis Sost schien es weitgehend flach zu sein, so
 dass ich hoffte, die 95 km in einer Etappe zu schaffen.
 
-{{< figure src="../images/baltit-fort.jpeg" caption="Das Baltit-Fort aus der Nähe" attr="Quelle: Fassifarooq, CC BY-SA 4.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=62824295" >}}
+{{< figure src="../images/baltit-fort.jpeg" caption="Das Baltit-Fort aus der Nähe" attr="Fassifarooq, CC BY-SA 4.0" attrlink="https://commons.wikimedia.org/w/index.php?curid=62824295" >}}
 
-{{< figure src="../images/golden-peak.jpeg" caption="Blick vom Baltit Fort auf den 7027 m hohen Golden Peak." attr="Quelle: Akbar Khan Niazi, CC BY-SA 3.0" attrlink="https://commons.wikimedia.org>" >}}
+{{< figure src="../images/golden-peak.jpeg" caption="Blick vom Baltit Fort auf den 7027 m hohen Golden Peak." attr="Akbar Khan Niazi, CC BY-SA 3.0" attrlink="https://commons.wikimedia.org>" >}}
 
 
 Beim Nachtessen waren viele Leute da. Auch solche, die ihre Unterkunft
