@@ -4,8 +4,8 @@ date = 2003-09-15
 slug = "ankunft-in-esfahan"
 +++
 
-**Ankunft in Esfahan**
-15. September
+{{< h3 >}}Ankunft in Esfahan{{< /h3 >}}
+15\. September
 
 Um vier Uhr in der Früh erreichten wir Esfahan. Die endlos lange Nachtfahrt war nur einmal für eine Essenspause unterbrochen worden. Wir hatten bei der Gelegenheit über den Lastwagenverkehr gestaunt. Eine ununterbrochene Lichterkette hatte sich in beide Richtungen bewegt. Wahrscheinlich hatten wir im Bus darum wenig davon gemerkt, weil wir genug mit uns selbst zu tun hatten. Ständig waren wir damit beschäftigt, die Sitzposition zu verändern. Im an sich supermodernen Bus hatten die Sitze eine Form, dass wir meinten, es würde sich uns ein konvex geformtes Brett entgegenstemmen. Kaum glaubten wir, nun einigermassen bequem zu sitzen, begann schon wieder ein anderer Teil des Rückens zu schmerzen. Längere Zeit zu schlafen gelang uns beiden jedenfalls nicht. Wir waren uns nach der strapaziösen Busfahrt einig, fortan für grosse Strecken das inneriranische Flugnetz zu nutzen.
 Leute, die mit einem Nachtbus reisen, sollten am Zielort ein Hotelzimmer reserviert haben. Sonst stehen sie, ähnlich wie wir, morgens um vier Uhr beim Bus-Terminal, mehr als 10 Kilometer ausserhalb des Stadtzentrums, und wissen nur, dass sie ein Hotelzimmer brauchen. Auch mit einem hilfreichen Taxifahrer kann es eine Weile dauern, bis sich irgendwo eine Hoteltüre öffnet bzw. ein freies Zimmer findet. Wir wurden nach rasender Fahrt in die Innenstadt von einem Hotel zum nächsten gefahren. Vorerst ohne Erfolg. Entweder war alles belegt oder auf die Nachtklingel antwortete niemand. Den vierten Versuch machten wir beim Amir Kabir Hostel. Der war immerhin soweit erfolgreich, dass uns der Nachtportier aufnahm, obwohl auch er kein Zimmer frei hatte. Wir könnten uns, meinte er, im Innenhof improvisiert einrichten; gegen Mittag würden wir sicher ein Zimmer kriegen. Das war besser, als noch weiter in der Stadt herumzukurven.

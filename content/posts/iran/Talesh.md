@@ -4,8 +4,8 @@ date = 2003-09-03
 slug = "talesh"
 +++
 
-**Eineinhalb Tage lang Hilfslehrer sein**
-3. September
+{{< h3 >}}Eineinhalb Tage lang Hilfslehrer sein{{< /h3 >}}
+3\. September
 
 Als unser Gastspiel an der Schule nachanderthalb Tagen zu Ende ging, wollten sich die meisten Schülerinnen und Schüler persönlich von uns verabschieden. Mit Schülern war das einfach; sie konnten mit einem Händedruck adieu sagen. Die Mädchen und jungen Frauen mussten es anders angehen. (Muslimfrauen darf man nicht berühren, sie dürfen einem auch ihrerseits nicht die Hand geben.) Sie wünschten uns wortreich gute Reise und erbaten sich schliesslich von uns Einträge in ihre Vergissmeinnicht-Büchlein.
 Zuletzt waren wir gemeinsam zu Gast gewesen in einer grossen Männerklasse. Weil draussen im Gang Leute warteten, um sich von uns zu verabschieden, wurden wir einige Male herausgerufen. Auch der Schauspieler war gekommen. Uns Grüsse ausrichten zu lassen reichte ihm nicht. Unkompliziert und direkt, wie er war, kam er herein ins Unterrichtszimmer, trat zu uns heran, umarmte uns und drückte uns Küsse auf die Wangen. Dass ihm über 20 Augenpaare verdutzt oder amüsiert zusahen, kratzte ihn kein bisschen.

@@ -4,8 +4,8 @@ date = 2003-09-19
 slug = "flug-nach-kerman-arg-e-bam"
 +++
 
-**Flug nach Kerman, die Hitze im Südwesten**
-19. September
+{{< h3 >}}Flug nach Kerman, die Hitze im Südwesten{{< /h3 >}}
+19\. September
 
 Das Amir Kabir-Hotel verliessen wirungern; hier hatten wir uns wohl gefühlt. Das Hotel liegt so zentral, dass man fast alles zu Fuss erreichen kann. V.a. aber sind Infrastruktur und Hygiene top, und die Hilfsbereitschaft der Angestellten ist kaum zu überbieten.
 Wir mussten also Abschied nehmen von der Märchenstadt, in der wir erstmals auf Touristen getroffen waren. Im Hotel wohnten Europäer und Japaner. Einige waren per Motorrad hierher gekommen; ein französisches Ehepaar gar mit Rollern. Abenteuerlich, wie sie auf speziellen Aufpackvorrichtungen ihr Gepäck, inkl. Benzin- und Ölkanister, befestigten. Im Vergleich zu ihnen waren wir mit minimalster Ausrüstung unterwegs. Kleider zum Wechseln brauchten wir fast keine. Was wir abends wuschen, konnten wir am Morgen wieder anziehen. Am meisten ins (buchstäbliche) Gewicht fielen das Tagebuch, die Reisehandbücher und das mitgeführte Trinkwasser.

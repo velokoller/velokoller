@@ -4,8 +4,8 @@ date = 2003-09-17
 slug = "reiseplanung-und-esfahan-by-night"
 +++
 
-**Reiseplanung, Gedanken über den iranischen Basar und Entspannung am Fluss**
-17. September
+{{< h3 >}}Reiseplanung, Gedanken über den iranischen Basar und Entspannung am Fluss{{< /h3 >}}
+17\. September
 
 An diesem Tag hatten wir einiges zuorganisieren und zu erledigen. Und das war gut so. Esfahan ist eine Stadt der ständigen Stimulation. Man muss sich hüten, ihrer reichen Ästhetik wegen in einen Zustand der Überreizung zu geraten. Wir bemerkten an uns eine besondere Form von Euphorie, die uns Gefahr laufen liess, von einem Prachtbau zum nächsten zu eilen wie die Bienen von Blüte zu Blüte. Aber ständig mit dem (unausgesprochenen) Wunsch, in den Genuss noch stärkerer Sinnenreize zu kommen. Safawidische Moscheen, Paläste und Gartenanlagen wirken in der Tat berauschend. Wenn wir so von einem Highlight zum nächsten unterwegs waren, taten wir das mit der heimlichen Erwartung, Quantität und Qualität des Ästhetischen liessen sich noch steigern. – Wir nahmen uns darum vor, das Sightseeing-Tempo zu verlangsamen bzw. uns mit dem Einzelnen intensiver auseinander zu setzten.
 Zunächst war ohnehin ein Gang ins nächste Spital fällig. Manuel musste sich die Fäden der Operationsnarbe entfernen lassen. Gerold wollte die Gelegenheit nutzen, seine Schürfwunde einem Arzt zu zeigen. Während der Schnitt in Manuels Bauch nur noch als Strich mit Fäden sichtbar war und ihn selbst beim Lachen nicht mehr schmerzte, hatte sich Gerolds Zustand nicht im erhofften Mass gebessert. Zwar waren die meisten Schürfungen verheilt, aber die an der Hüfte nässte und brannte weiterhin. – Wir trafen wieder auf einen Arzt, der uns nicht nur zuvorkommend behandelte, sondern auch medizinisch gut versorgte. Er schaute sich auch Gerolds Blessur an, wusch und desinfizierte sie. (Dass er nach wie vor nicht schmerzfrei durchatmen konnte, liess Gerold unerwähnt.) Er gab uns aus der Spitalapotheke eine Salbe mit und empfahl, die Wunde täglich mit Seifenwasser auszuwaschen. Für die Salbe bezahlten wir 70 Rappen; für die Dienstleistung wollte er kein Geld haben.

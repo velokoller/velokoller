@@ -4,8 +4,8 @@ date = 2003-09-21
 slug = "teppichknupfkunst-in-kerman"
 +++
 
-**Teppichknüpfkunst in Kerman**
-21. September
+{{< h3 >}}Teppichknüpfkunst in Kerman{{< /h3 >}}
+21\. September
 
 Weil die kermanischen Orientteppicheebenso berühmt sind wie die aus
 Tabriz, wollten wir hier eine Teppichmanufaktur besuchen. Nach dem

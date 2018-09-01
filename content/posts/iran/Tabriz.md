@@ -4,8 +4,8 @@ date = 2003-08-29
 slug = "tabriz"
 +++
 
-**Tabriz**
-29. August
+{{< h3 >}}Tabriz{{< /h3 >}}
+29\. August
 
 Tabriz, die ProvinzhauptstadtOstazarbaidjans, liegt auf 1340 m ü.M. und
 hat etwa 1,4 Millionen Einwohner. Wer auf dem Landweg von Europa her

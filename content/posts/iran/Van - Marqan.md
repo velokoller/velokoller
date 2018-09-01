@@ -4,8 +4,8 @@ date = 2003-08-24
 slug = "van-marqan"
 +++
 
-**1. Etappe: Van - Çaldiran**
-24. August
+{{< h3 >}}1. Etappe: Van - Çaldiran{{< /h3 >}}
+24\. August
 
 Der nunmehr letzte Stand der Information lautete, dass der direkte Weg nach Khoy nur mit dem Zug möglich war. Wir wählten also, wie wir bereits am Vorabend entschieden hatten, die Route über Dogubayazit. Wir starteten um 7 Uhr. Während der ersten 70 km führt die Strasse immer wieder an den Van-See. (Von leichten Höhenunterschieden abgesehen fuhren wir also immer auf 1650 m ü.M.) Der See ist tatsächlich von so überwältigender Grösse, wie er in jedem Atlas dargestellt ist! (Tags zuvor hatten wir schon einen Eindruck davon bekommen, als es selbst im Flugzeug lange dauerte, ihn zu überqueren.) Zweimal machten wir am See Halt; beim zweiten Mal waren keine Leute in der Nähe, so dass wir ohne Badehose schwimmen gehen konnten. Im weichen Wasser des grössten Sodasees der Welt zu schwimmen war wohltuend.
 Gegen Mittag erreichten wir das Ende des Sees. Vor uns lag nun eine mehrere Kilometer lange Gerade, an deren Ende die Strasse abrupt in eine steile Bergstrecke überzugehen schien. Wir hatten aber Glück, bevor die Steigung begann, machte unsere Strasse eine 90-Grad-Kurve nach links, so dass wir auch die nächsten Kilometer auf der Ebene fahren konnten. Am Ende einer weiteren schier endlosen Gerade erreichten wir mit Muradiye endlich die erste Ortschaft nach Van. Hier konnten wir uns in einem Restaurant verpflegen. Bedient wurden wir von einem Knaben, der kaum älter als zwölf war. Wir bekamen reichlich und gut zu essen. Danach suchten wir einen Platz für eine kurze Siesta. Das war einfacher gesagt als getan, denn obwohl es genügend schattige Plätze gab, lungerten überall Jugendliche herum, die uns sofort belagerten und mit ihrem Zwei-Sätze-Englisch bombardierten: *What is your name? Where are you from?* Einzelne verhielten sich ziemlich dreist, aber immerhin bettelten sie nicht. – Wenigstens eine halbe Stunde konnten wir uns dann an einem Flüsschen im Schatten von Bäumen ausruhen. Als wir auch da Besuch bekamen, waren wir aber bereits im Begriff weiterzufahren.
@@ -13,10 +13,10 @@ Viele Buben halten sich tagsüber auf den Feldern auf und hüten Vieh. Abwechslu
 Nach Muradiye ging’s ständig bergauf. Bald setzte auch noch kräftiger Gegenwind ein, und das Wetter verschlechterte sich zusehends. Regen kündigte sich an. Mehr als 15 km/h zeigte der Tacho nur noch selten. Die Strasse folgt hier dem Fluss, der einen tiefen Canyon in den Talboden gefressen hat. Die intensiv genutzten Viehweiden und die Getreide- und Gemüsefelder kontrastieren scharf mit den kahlen Hügelketten, die das wenige hundert Meter breite Tal begrenzen. Fahrzeugen begegneten wir kaum. Dafür mussten wir uns vor Hunden in Acht nehmen. Zweimal jagten zähnefletschende Köter so lange neben den Velos her, bis unser Keuchen etwa die Lautstärke ihres Kläffens erreichte. Dass sie nicht zubissen, war glücklicher Zufall.
 Kurz bevor die Regenschauer einsetzten, erreichten wir (inzwischen durchfroren und ausgepumpt) Çaldiran. Ein einziges Hotel gibt es da - von einem Standard, über den wir besser schweigen. Immerhin waren wir im Trockenen, als es richtig schüttete. Da wir in Hotelnähe nur einen Lebensmittelladen, aber kein Restaurant fanden, kauften wir ein und kochten im Zimmer eine einfache Mahlzeit.
 
-{{< figure src="../images/dinner_caldiran.jpg" caption="Improvisiertes " >}}
+{{< figure src="../images/dinner_caldiran.jpg" caption="Improvisiertes Nachtessen" >}}
 
-**2. Etappe: Çaldiran - Dogubeyazit**
-25. August
+{{< h3 >}}2. Etappe: Çaldiran - Dogubeyazit{{< /h3 >}}
+25\. August
 
 Wir starteten auch an diesem Tag früh und konnten von Beginn weg ein gutes Tempo vorlegen. Ohne Gegenwind erreichten wir auf der Ebene – bei wieder angenehmem Wetter – während zehn Kilometern einen Schnitt von mehr als 30 km/h. Aber dann ging es während zwei Stunden nur noch bergan, einige Male so steil, dass Gerold vorne auf die kleinste Scheibe wechselte. Wir waren trotzdem überrascht, als wir nach zwei Stunden auf einem Pass standen und auf einer Tafel die Höhenangabe lasen: 2644 m.
 Die nächsten zehn Kilometer konnten wir es endlich auch mal sausen lassen. Und zwar buchstäblich, denn die Kurven sind so angelegt, dass man sie auch mit 80 km/h schafft, also nicht zu bremsen braucht. Ab der zweiten oder dritten Kurve begannen wir es zu geniessen; es zeigte sich, dass die Räder dem enormen Druck standhielten. Trotzdem verlangsamten wir nach wenigen Kilometern das Tempo; es bot sich auf einmal eine Sicht, die uns schliesslich anhalten liess: Wir blickten hinunter in die riesige Ebene von Dogubayazit und hinüber zum mächtigen, mythischen Berg Ararat.
@@ -27,8 +27,8 @@ Nach längerer Ruhepause machten uns auf die Suche nach einer Bank, wo wir irani
 
 Wir waren hier in Dogubayazit nur noch 40 km von der iranischen Grenze entfernt; entsprechend beschäftigten wir uns in Gedanken bereits mit dem Grenzübertritt. Wir hatten einiges darüber gelesen. Auf einen einfachen Nenner gebracht: Es konnte Stunden dauern, und wir mussten mit Schikanen rechnen.
 
-**3. Etappe: Dogubeyazit - Maku - Marqan**
-26. August
+{{< h3 >}}3. Etappe: Dogubeyazit - Maku - Marqan{{< /h3 >}}
+26\. August
 
 Links von uns immer der gewaltige Berg mit seiner Wolkenkappe, fuhren wir auf topfebener Strecke und wenig Verkehr auf die Grenze zu. Nach fünf Viertelstunden waren wir da. Als Velofahrer konnten wir an den wartenden Lastern und Autos vorbei direkt bis zum Posten nach vorne fahren - und mussten nicht mal da mit den übrigen Fussgängern anstehen. Nach kurzer Wartezeit kontrollierte der Beamte auf der türkischen Seite unsere Pässe und liess uns das Tor zum iranischen Schalter passieren. Dort standen viele Männer an; die meisten steckten Geldscheine in den Pass und reichten diesen durch die Hintertüre in den Schalterraum hinein. Sie passierten die Grenze viel rascher als die, die kein Schmiergeld zahlen konnten oder wollten und darum vor dem Schalter anstehen mussten. Einer der beiden Beamten schloss die Türe zwar immer wieder zu, als ob er weitere Bestechungsaktivitäten unterbinden wollte, aber er protestierte kein bisschen, wenn ihm wenige Sekunden später der nächste Pass durch die Türe zugesteckt wurde.
 Auch wir reichten die Pässe durch diese Türe hinein – ohne allerdings Geld hineingesteckt zu haben. Gleichwohl standen wir 20 Minuten später auf iranischem Boden. Der ganze Grenzübertritt hatte weniger als eine Dreiviertelstunde gedauert. Weder hatten wir Formulare (in arabischer Schrift!) ausfüllen müssen, noch war unser Gepäck kontrolliert worden. Als Rad fahrende Schweizer Touristen wurden wir sozusagen mit einem Knicks ins Land geheissen. «Koller Merenschwand», hatte der gut gelaunte Beamte unseren Namen laut und in korrekter Aussprache aus dem Pass ‚rezitiert’ und uns damit das Tor ins Morgenland aufgestossen.

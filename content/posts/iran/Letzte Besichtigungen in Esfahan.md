@@ -4,8 +4,8 @@ date = 2003-09-18
 slug = "letzte-besichtigungen-in-esfahan"
 +++
 
-**Letzte Besichtigungen in Esfahan**
-18. September
+{{< h3 >}}Letzte Besichtigungen in Esfahan{{< /h3 >}}
+18\. September
 
 {{< figure src="../images/fliesenverzierte_kuppelsaeule_der_masdjide_imam_esfahan.jpg" caption="Esfahan. Fliesenverzierte Kuppelsäule der Masdjid-é Imam" >}}
 
@@ -19,8 +19,8 @@ Den letzten Kultur-Spaziergang unternahmen wir ins Parkgelände westlich des ‚
 Es finden sich hier wie in den Moscheen mit Stalaktitenreliefs versehene Kuppeln, allerdings sind sie und die Wände nicht mit Fliesen, sondern mit kunstvollen Spiegelmosaiken bedeckt. Das für uns Unerwartete war aber der Hauptraum mit den sechs aus dem 17. und 18. Jh. stammenden grossflächigen Wandmalereien. Drei von ihnen zeigen historische Schlachten (gegen die Usbeken, gegen das mit Elefanten antretende Heer eines indischen Herrschers und gegen einen osmanischen Sultan), die drei andern schildern Empfangsszenen zu Ehren ausländischer Würdenträger. Unterhalb dieser Bilder sind kleinformatige Szenen dargestellt; sie zeigen Mädchen und junge Männer, die sich dem Tanzen, Musizieren oder dem süssen Nichtstun hingeben.
 In den Schlachtengemälden wird zwar mit Säbeln gehauen und gestochen und es werden Pfeile abgeschossen, ins Bild gesetzt werden aber v.a. die Reiterkünste und besonders auffällig die Farbenpracht der Gewänder und Kopfbedeckungen der Kämpfenden. Kriegsrealismus war offenbar ebenso wenig gefragt wie die Darstellung von nationalem Chauvinismus. Bewundernswert sind v.a. die kräftigen Farben und schmunzeln lässt sich über die zierlichen Köpfe und Beine der sonst massigen Pferde und über die mächtigen Schnurrbärte einzelner Kämpfer.
 
-**Wedding**
-18. September, Abend
+{{< h3 >}}Wedding{{< /h3 >}}
+18\. September, Abend
 
 Den Donnerstagabend verbrachten wir als Gäste eines Hochzeitsfests. Tags zuvor hatte uns ein junger Mann zur Hochzeit seines Bruders eingeladen. Wir bräuchten weiter nichts zu tun als zu einer bestimmten Zeit vor dem Hotel aufs Taxi zu warten. Auch bezüglich Kleidung bräuchten wir uns keine Sorgen zu machen. Neugierig geworden sagten wir zu. Der Mann erwartete uns exakt zur vereinbarten Zeit und fuhr mit uns weit hinaus an den Stadtrand. Er war leicht enttäuscht, dass er nur uns beide antraf, denn er hatte auch drei Engländer aus dem gleichen Hotel eingeladen. „Sie haben doch auch zugesagt“, meinte er betrübt.
 Wir betraten den grossen ummauerten Hof eines kleinbürgerlichen Hauses. Hier deutete nichts auf ein Fest hin. Ein Teil des zeltüberspannten Hofes war zwar mit Teppichen ausgelegt, aber wir schienen die einzigen Gäste zu sein. Die zahlreichen Mädchen, jungen Frauen und Männer schienen zur Familie zu gehören. Nach und nach wurden wir von den männlichen Familienmitgliedern per Händedruck begrüsst, und v.a. die älteren Frauen nickten uns freundlich zu. Wir bekamen Tee gereicht, aber der junge Mann kümmerte sich nun nicht weiter um uns. Ausser dass er Manuel bat, für ihn im Amir Kabir-Hotel anzurufen und sich nach dem Verbleib der Engländern zu erkundigen. Sein Ehrgeiz war es offensichtlich, mindestens fünf oder sechs Ausländer an die Hochzeit zu bekommen. Es blieb aber bei uns beiden, denn der Anruf war erfolglos.

@@ -4,8 +4,8 @@ date = 2003-08-21
 slug = "reiseauftakt"
 +++
 
-**Am Tag vor der Abreise**
-21. August
+{{< h3 >}}Am Tag vor der Abreise{{< /h3 >}}
+21\. August
 
 Nachdem wir alles vorbereitet und eingepackt hatten, blieben uns noch einige Stunden der Erholung.
 Alles Gepäck hatte - wenn auch knapp - in den grossen Nylonsack gepasst, den Gerold schon auf der USA- und der Pakistan/China-Reise dabei hatte. Es wog ungefähr 26 kg. Das hiess, jeder von uns würde ungefähr 16-17 kg Gepäck auf dem Rad mitführen. (Das war weniger als erwartet, auch wenn wir nicht in extremer Weise reduziert bzw. minimalisiert hatten.)
@@ -14,8 +14,8 @@ Bis vor kurzem waren wir davon ausgegangen, dass wir von Van aus auf direktem We
 Der Aufsteller vom Mittwoch: Max Spörri, Gerolds Experte an der Matur, schenkte uns einen GPS-Empfänger. Da wir nur über eine Karte im Massstab von 1 : 2'500’000 verfügten - es gibt nichts Besseres! -, konnte uns das Gerät nützlich sein. Wenn wir es nicht brauchten, umso besser.
 Die Gefühlslage 14 Stunden vor dem 
 
-**Flug nach Ankara**
-22. August
+{{< h3 >}}Flug nach Ankara{{< /h3 >}}
+22\. August
 
 {{< figure src="../images/zuerich_airport.jpg" caption="Flughafen Kloten 22. August 2003 morgens kurz vor sieben Uhr" >}}
 
@@ -23,8 +23,8 @@ Die beiden Flüge von Zürich nach Wien und von da nach Ankara brachten wir ohne
 Der Wechselkurs überraschte uns: Ein Franken entsprach ungefähr einer Million türkischer Lire. In einem ein bisschen flexibleren Land hätte man die sechs Nullen schon lange gestrichen. Noch gar nicht durchschaut hatten wir zu diesem Zeitpunkt das Preisniveau. Ein Kebab kostete zwischen 650'000 und 1'500'000 Lire. Im Vergleich dazu war das Busticket vom Flughafen in die Stadt ziemlich teuer (7 Millionen). Mehr hätten wir auch in der Schweiz für eine solche Strecke nicht bezahlen müssen.
 In Ankara war es angenehm warm, etwas über 30 Grad, am Abend leicht bedeckt. Vom Flugzeug aus präsentierte sich uns eine nicht enden wollende Hügellandschaft. Im landwirtschaftlich genutzten Gebiet dominieren Gelb- und Brauntöne, sonst helles Grau. Wir fragten uns, wo es Wasser gibt; von oben wirkte alles so staubtrocken. Das Gebiet ist aber offensichtlich fruchtbar.
 
-**Ankunft in Van**
-23. August
+{{< h3 >}}Ankunft in Van{{< /h3 >}}
+23\. August
 
 Heute holten wir zuerst unser Gepäck am Flughafen ab. Die Gepäckaufbewahrung kostete mehr als die Hotelübernachtung. Da wir nicht mehr über genügend türkisches Geld verfügten, bezahlten wir mit einem 20 Dollar-Schein. Der Beamte akzeptierte das, obwohl der geforderte Lire-Betrag etwas höher war.
 Für den Weiterflug mussten wir die Räder nun wieder neu vorbereiten. Die Schnüre z.B., mit denen wir die Wechsel am Rahmen befestigt hatten, waren gerissen. Darum mussten wir hier nochmals Hand anlegen. Dabei fiel Manuel auf, wie locker die Schraube seines Wechsel sass, die diesen mit dem Schaltauge verbindet. Zum Glück war sie bis dahin nicht verloren gegangen! Vorsichtshalber entfernte er sie nun.

@@ -4,8 +4,8 @@ date = 2003-09-04
 slug = "talesh-rasht"
 +++
 
-**10. Etappe: Talesh - Rasht**
-4. September
+{{< h3 >}}10. Etappe: Talesh - Rasht{{< /h3 >}}
+4\. September
 
 Wir kamen, obwohl müde bzw.unausgeschlafen, bei Fahren rasch in einem guten Rhythmus. So würden wir vor dem Mittag in Rasht sein. Regen war angekündigt, aber es blieb trocken. Windstill. Aber es herrschte eine Verkehrsdichte wie zwischen Zürich und Bern. Auf einer nicht richtungsgetrennten Strasse notabene! Wir fuhren die ersten 60 km ohne Stopp durch, wollten aber im nächsten Ort eine grössere Pause einschalten. Wenige Minuten noch, dann sollten wir ein Dorf erreichen.
 Nach 78 km – es war exakt der Tausendste seit dem Start in Van – geschah der Unfall. Manuel sah vor uns am Strassenrand eine Art Imbissbude. Er entschied anzuhalten bzw. es bis dorthin ausrollen zu lassen. Das signalisierte er, während er Druck von den Pedalen nahm, nach hinten zu seinem Vater. Dieser, vom hektischen Fahren etwas genervt und darum zu wenig aufmerksam, übersah das Zeichen, fuhr auf Manuel auf und geriet fatalerweise zwischen dessen Velotasche und Hinterrad. Die entstehende Schieflage liess sich nicht korrigieren, so dass er mit Tempo 30 stürzte.
@@ -23,8 +23,8 @@ Wir waren beide überzeugt, schon in zwei Tagen wieder auf den Velos zu sitzen. 
 Die Nacht auf den Freitag blieb uns jedoch in schlechter Erinnerung. Die Temperatur im Zimmer sank nicht unter 30 Grad. Und das Liegen schmerzte Gerold so sehr, dass er kaum Schlaf fand. Nicht nur die Blessuren taten ihm weh; jede Bewegung verursachte heftiges Stechen in der Lunge.
 Auch unter diesen veränderten Umständen wollten wir aber am Morgen nichts ändern am ursprünglichen Plan, zum berühmten Bergdorf Masuleh zu fahren. Umso weniger, als wir am Vorabend auf der Strasse mit einem jungen Bauingenieur-Studenten ins Gespräch gekommen waren. Ali Reza, so sein Name, hatte sich spontan angeboten, uns nach Masuleh zu begleiten.
 
-**Rasht**
-5. September
+{{< h3 >}}Rasht{{< /h3 >}}
+5\. September
 
 {{< figure src="../images/masouleh.jpg" caption="Masouleh" >}}
 
