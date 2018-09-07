@@ -4,7 +4,7 @@ date = 2003-09-21
 slug = "teppichknupfkunst-in-kerman"
 +++
 
-{{< h3 >}}Teppichknüpfkunst in Kerman{{< /h3 >}}
+{{< h3 class="mv0" >}}Teppichknüpfkunst in Kerman{{< /h3 >}}
 21\. September
 
 Weil die kermanischen Orientteppicheebenso berühmt sind wie die aus

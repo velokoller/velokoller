@@ -4,7 +4,7 @@ date = 2003-09-16
 slug = "palaste-und-gartenanlagen-in-esfahan"
 +++
 
-{{< h3 >}}Paläste und Gartenanlagen in Esfahan{{< /h3 >}}
+{{< h3 class="mv0" >}}Paläste und Gartenanlagen in Esfahan{{< /h3 >}}
 16\. September
 
 Den Tag begannen wir mit einemimprovisierten Frühstück im Innenhof des Hotels. Manuel hatte Butter und Konfitüre besorgt, Gerold in der nahen Bäckerei das frische Brot. Weil der Ofen weniger hergab, als die Leute nachfragten, hatte sich dort eine Schlange gebildet. Der Bäcker unterhielt die Kundschaft mit Spässen oder verwickelte einzelne in kurze Gespräche, so dass es beim Warten niemandem langweilig wurde. Auch den neuen Fremden nahm er sich vor. Er wollte von Gerold u.a. wissen, wie er den Iran im Allgemeinen und Esfahan im Besonderen einschätze. Beide einigten sich rasch: auf *chub* (gut) für das Land und auf *cheyli chub* (sehr gut) für die Stadt. Und für die nächsten Tagen war damit das Begrüssungsritual festgelegt. Von weitem rief man es jeweils einander zu.

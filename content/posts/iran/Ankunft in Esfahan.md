@@ -4,7 +4,7 @@ date = 2003-09-15
 slug = "ankunft-in-esfahan"
 +++
 
-{{< h3 >}}Ankunft in Esfahan{{< /h3 >}}
+{{< h3 class="mv0" >}}Ankunft in Esfahan{{< /h3 >}}
 15\. September
 
 Um vier Uhr in der Früh erreichten wir Esfahan. Die endlos lange Nachtfahrt war nur einmal für eine Essenspause unterbrochen worden. Wir hatten bei der Gelegenheit über den Lastwagenverkehr gestaunt. Eine ununterbrochene Lichterkette hatte sich in beide Richtungen bewegt. Wahrscheinlich hatten wir im Bus darum wenig davon gemerkt, weil wir genug mit uns selbst zu tun hatten. Ständig waren wir damit beschäftigt, die Sitzposition zu verändern. Im an sich supermodernen Bus hatten die Sitze eine Form, dass wir meinten, es würde sich uns ein konvex geformtes Brett entgegenstemmen. Kaum glaubten wir, nun einigermassen bequem zu sitzen, begann schon wieder ein anderer Teil des Rückens zu schmerzen. Längere Zeit zu schlafen gelang uns beiden jedenfalls nicht. Wir waren uns nach der strapaziösen Busfahrt einig, fortan für grosse Strecken das inneriranische Flugnetz zu nutzen.

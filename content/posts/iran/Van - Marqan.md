@@ -4,7 +4,7 @@ date = 2003-08-24
 slug = "van-marqan"
 +++
 
-{{< h3 >}}1. Etappe: Van - Çaldiran{{< /h3 >}}
+{{< h3 class="mv0" >}}1. Etappe: Van - Çaldiran{{< /h3 >}}
 24\. August
 
 Der nunmehr letzte Stand der Information lautete, dass der direkte Weg nach Khoy nur mit dem Zug möglich war. Wir wählten also, wie wir bereits am Vorabend entschieden hatten, die Route über Dogubayazit. Wir starteten um 7 Uhr. Während der ersten 70 km führt die Strasse immer wieder an den Van-See. (Von leichten Höhenunterschieden abgesehen fuhren wir also immer auf 1650 m ü.M.) Der See ist tatsächlich von so überwältigender Grösse, wie er in jedem Atlas dargestellt ist! (Tags zuvor hatten wir schon einen Eindruck davon bekommen, als es selbst im Flugzeug lange dauerte, ihn zu überqueren.) Zweimal machten wir am See Halt; beim zweiten Mal waren keine Leute in der Nähe, so dass wir ohne Badehose schwimmen gehen konnten. Im weichen Wasser des grössten Sodasees der Welt zu schwimmen war wohltuend.
@@ -15,7 +15,7 @@ Kurz bevor die Regenschauer einsetzten, erreichten wir (inzwischen durchfroren u
 
 {{< figure src="../images/dinner_caldiran.jpg" caption="Improvisiertes Nachtessen" >}}
 
-{{< h3 >}}2. Etappe: Çaldiran - Dogubeyazit{{< /h3 >}}
+{{< h3 class="mv0" >}}2. Etappe: Çaldiran - Dogubeyazit{{< /h3 >}}
 25\. August
 
 Wir starteten auch an diesem Tag früh und konnten von Beginn weg ein gutes Tempo vorlegen. Ohne Gegenwind erreichten wir auf der Ebene – bei wieder angenehmem Wetter – während zehn Kilometern einen Schnitt von mehr als 30 km/h. Aber dann ging es während zwei Stunden nur noch bergan, einige Male so steil, dass Gerold vorne auf die kleinste Scheibe wechselte. Wir waren trotzdem überrascht, als wir nach zwei Stunden auf einem Pass standen und auf einer Tafel die Höhenangabe lasen: 2644 m.
@@ -27,7 +27,7 @@ Nach längerer Ruhepause machten uns auf die Suche nach einer Bank, wo wir irani
 
 Wir waren hier in Dogubayazit nur noch 40 km von der iranischen Grenze entfernt; entsprechend beschäftigten wir uns in Gedanken bereits mit dem Grenzübertritt. Wir hatten einiges darüber gelesen. Auf einen einfachen Nenner gebracht: Es konnte Stunden dauern, und wir mussten mit Schikanen rechnen.
 
-{{< h3 >}}3. Etappe: Dogubeyazit - Maku - Marqan{{< /h3 >}}
+{{< h3 class="mv0" >}}3. Etappe: Dogubeyazit - Maku - Marqan{{< /h3 >}}
 26\. August
 
 Links von uns immer der gewaltige Berg mit seiner Wolkenkappe, fuhren wir auf topfebener Strecke und wenig Verkehr auf die Grenze zu. Nach fünf Viertelstunden waren wir da. Als Velofahrer konnten wir an den wartenden Lastern und Autos vorbei direkt bis zum Posten nach vorne fahren - und mussten nicht mal da mit den übrigen Fussgängern anstehen. Nach kurzer Wartezeit kontrollierte der Beamte auf der türkischen Seite unsere Pässe und liess uns das Tor zum iranischen Schalter passieren. Dort standen viele Männer an; die meisten steckten Geldscheine in den Pass und reichten diesen durch die Hintertüre in den Schalterraum hinein. Sie passierten die Grenze viel rascher als die, die kein Schmiergeld zahlen konnten oder wollten und darum vor dem Schalter anstehen mussten. Einer der beiden Beamten schloss die Türe zwar immer wieder zu, als ob er weitere Bestechungsaktivitäten unterbinden wollte, aber er protestierte kein bisschen, wenn ihm wenige Sekunden später der nächste Pass durch die Türe zugesteckt wurde.

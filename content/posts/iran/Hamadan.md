@@ -4,7 +4,7 @@ date = 2003-09-06
 slug = "hamadan"
 +++
 
-{{< h3 >}}Busfahrt von Rasht nach Hamadan{{< /h3 >}}
+{{< h3 class="mv0" >}}Busfahrt von Rasht nach Hamadan{{< /h3 >}}
 6\. September
 
 Die Reise mit dem Bus von Rasht nachHamadan verlief problemlos. Da wir schon kurz nach dem Start in gebirgiger Landschaft unterwegs waren und dabei beträchtliche Höhendifferenzen überwanden, fühlten wir uns im Bus ziemlich wohl. Wir kamen rasch vorwärts und konnten, falls wir nicht schliefen, Bilder aufnehmen, die einmal mehr bestätigten, wie einzigartig die Landschaften Persiens sind. Eindrücklich waren auch der grosse Stausee und die Windkraftanlagen von Majil unmittelbar nach der Klus durch das Alborz-Gebirge. Nach dem Mittagessen gelangten wir rasch ins Zagros-Gebirge, befanden uns ab jetzt also im zentralen Hochland Persiens.
@@ -13,7 +13,7 @@ Am späteren Nachmittag erreichten wir Hamadan und waren nun etwa auf dem gleich
 Velos auf Bussen zu transportieren hat seine Tücken. Diese Erfahrung machten wir beim Bus Terminal in Rasht wie dann auch am Ziel in Hamadan.
 Die Billette hatten wir uns im Voraus besorgt, im Verkaufsbüro einer Transportgesellschaft im Stadtzentrum. Die Dame hier sprach nur Farsi. Wir versuchten ihr verständlich zu machen, dass wir auch zwei Velos transportieren müssten. Wir wollten sichergehen, am Bus Terminal dann keine Probleme wegen der Räder zu bekommen. Ein hilfsbereiter Iraner, der etwas Englisch sprach, fragte bei der Dame nochmals nach und übersetzte uns dann die Antwort: Die Velos könnten transportiert werden und wir müssten dafür nicht speziell bezahlen. Das war eine ebenso überraschende wie erfreuliche Antwort, aber sie sollte sich als falsch erweisen. Auf dem Busbahnhof fanden wir unseren Bus rasch, aber er hatte - nicht unerwartet - keinen Dachträger. Im Unterschied zu Pakistan und China können iranische Busse sperrige Güter nicht einfach aufs Dach packen. Wo also würden sie unsere Velos verstauen? Vorerst machte uns der Fahrer allerdings klar, dass wir für Velos und Gepäck zusätzlich zu bezahlen hätten, etwa dreimal so viel, wie wir für die Fahrkarten bezahlt hatten. Nach einigem Diskutieren konnten wir uns auf die Hälfte des Betrages einigen, aber noch immer blieb unklar, wo die Räder verstaut werden sollten. Schliesslich zeigte der Beifahrer, wie er sich das vorstellte: Er versuchte die Velos durch die hintere Türe zu bugsieren und sie zwischen den beiden letzten Sitzreihen zu platzieren. Mit ein wenig Überlegung und einiger Umsicht hätten wir das ohne Probleme hingekriegt. Er aber setzte auf Brachialgewalt. Das Resultat sahen wir dann beim Entladen: zerbrochene Endhülsen bei den Bremskabeln und ein abgerissenes Velocomputer-Kabel.
 
-{{< h3 >}}Hamadan{{< /h3 >}}
+{{< h3 class="mv0" >}}Hamadan{{< /h3 >}}
 7\. September
 
 In Hamadan gibt's erstaunlich wenig Hotels; nur zwei bieten einigen Komfort, das Bouali und das Babataher, aber zu einem horrenden Preis (über 50 Dollar). Wir stiegen darum im Hamadan Guest House ab, d.h. im Zentrum der Stadt, direkt neben dem Khomeyni Square. Hier hatten wir das Glück, eines der wenigen, wenn nicht das einzige Zimmer mit Dusche und WC zu bekommen.

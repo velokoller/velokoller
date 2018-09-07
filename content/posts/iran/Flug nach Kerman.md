@@ -4,7 +4,7 @@ date = 2003-09-19
 slug = "flug-nach-kerman-arg-e-bam"
 +++
 
-{{< h3 >}}Flug nach Kerman, die Hitze im Südwesten{{< /h3 >}}
+{{< h3 class="mv0" >}}Flug nach Kerman, die Hitze im Südwesten{{< /h3 >}}
 19\. September
 
 Das Amir Kabir-Hotel verliessen wirungern; hier hatten wir uns wohl gefühlt. Das Hotel liegt so zentral, dass man fast alles zu Fuss erreichen kann. V.a. aber sind Infrastruktur und Hygiene top, und die Hilfsbereitschaft der Angestellten ist kaum zu überbieten.

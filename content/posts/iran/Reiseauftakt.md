@@ -4,7 +4,7 @@ date = 2003-08-21
 slug = "reiseauftakt"
 +++
 
-{{< h3 >}}Am Tag vor der Abreise{{< /h3 >}}
+{{< h3 class="mv0" >}}Am Tag vor der Abreise{{< /h3 >}}
 21\. August
 
 Nachdem wir alles vorbereitet und eingepackt hatten, blieben uns noch einige Stunden der Erholung.
@@ -14,7 +14,7 @@ Bis vor kurzem waren wir davon ausgegangen, dass wir von Van aus auf direktem We
 Der Aufsteller vom Mittwoch: Max Spörri, Gerolds Experte an der Matur, schenkte uns einen GPS-Empfänger. Da wir nur über eine Karte im Massstab von 1 : 2'500’000 verfügten - es gibt nichts Besseres! -, konnte uns das Gerät nützlich sein. Wenn wir es nicht brauchten, umso besser.
 Die Gefühlslage 14 Stunden vor dem 
 
-{{< h3 >}}Flug nach Ankara{{< /h3 >}}
+{{< h3 class="mv0" >}}Flug nach Ankara{{< /h3 >}}
 22\. August
 
 {{< figure src="../images/zuerich_airport.jpg" caption="Flughafen Kloten 22. August 2003 morgens kurz vor sieben Uhr" >}}
@@ -23,7 +23,7 @@ Die beiden Flüge von Zürich nach Wien und von da nach Ankara brachten wir ohne
 Der Wechselkurs überraschte uns: Ein Franken entsprach ungefähr einer Million türkischer Lire. In einem ein bisschen flexibleren Land hätte man die sechs Nullen schon lange gestrichen. Noch gar nicht durchschaut hatten wir zu diesem Zeitpunkt das Preisniveau. Ein Kebab kostete zwischen 650'000 und 1'500'000 Lire. Im Vergleich dazu war das Busticket vom Flughafen in die Stadt ziemlich teuer (7 Millionen). Mehr hätten wir auch in der Schweiz für eine solche Strecke nicht bezahlen müssen.
 In Ankara war es angenehm warm, etwas über 30 Grad, am Abend leicht bedeckt. Vom Flugzeug aus präsentierte sich uns eine nicht enden wollende Hügellandschaft. Im landwirtschaftlich genutzten Gebiet dominieren Gelb- und Brauntöne, sonst helles Grau. Wir fragten uns, wo es Wasser gibt; von oben wirkte alles so staubtrocken. Das Gebiet ist aber offensichtlich fruchtbar.
 
-{{< h3 >}}Ankunft in Van{{< /h3 >}}
+{{< h3 class="mv0" >}}Ankunft in Van{{< /h3 >}}
 23\. August
 
 Heute holten wir zuerst unser Gepäck am Flughafen ab. Die Gepäckaufbewahrung kostete mehr als die Hotelübernachtung. Da wir nicht mehr über genügend türkisches Geld verfügten, bezahlten wir mit einem 20 Dollar-Schein. Der Beamte akzeptierte das, obwohl der geforderte Lire-Betrag etwas höher war.
