@@ -4,7 +4,7 @@ date = 2003-09-23
 slug = "yazd"
 +++
 
-**Die Stadt am Rand der grossen Wüsten**
+{{< h3 class="mv0" >}}Die Stadt am Rand der grossen Wüsten{{< /h3 >}}
 Dienstag, 23. September
 
 Es gibt Tage, wo das Herz beständig eine Spur schneller schlägtals eigentlich nötig und die Zeit schier stillsteht. Man erlebt dann so intensiv, dass das Geschehen sich unmittelbar ins Langzeitgedächtnis einzudrücken scheint. Im Iran hatten wir solche Tage regelmässig. Was sich nicht nur daran zeigte, dass abends viel Zeit fürs Tagebuch- und Tagesberichtschreiben aufzuwenden war, sondern auch jetzt, beim Verfassen des ausführlichen Reiseberichts, sichtbar wird, dass nämlich die zeitliche Distanz kaum vorhanden zu sein scheint. Die Bilder sind – wie nach einem Klick im Internet – nach zwei, drei Augenblicken da und laufen als detailgenauer Film ab. Der 23. September 2003 war kein solch intensiver Tag; es ereignete sich wenig, was hätte haften bleiben müssen. Wir verliessen an diesem Dienstag Kerman und trafen nach einer 400-km-Busfahrt durch die Wüste am späteren Nachmittag in Yazd ein.
@@ -20,7 +20,7 @@ Yazds Entstehungszeit ist nicht bekannt; sicher ist, dass die Stadt zur Zeit des
 Typisch für die Wüstenstadt sind die Lehmziegelbauten und die über sie hinausragenden Badgirs, die Windtürme. Um das Wasser zu kühlen, wurden auch die Zisternen damit versehen. Ein Grossteil der historischen Altstadt Yazds ist erhalten geblieben. Dort beeindrucken u.a. die geometrischen Ziegelmuster, die über die engen Gassen gespannten Verstärkungsbögen und die geschnitzten Eingangstüren der Wohnhäuser. Über den Iran hinaus berühmt geworden sind aber die beiden grossen zoroastrischen Bestattungstürme ausserhalb der Stadt, die »Türme des Schweigens«.
 Wir wären nach Yazd auch mit den Velos gefahren. (Die Radroute hätte von Hamadan aus nach Esfahan, Yazd und dann nach Shiraz geführt.) Bei der Vorbereitung hatten wir Bilder von der Stadt angeschaut und dabei festgestellt, welche Faszination für uns schon da z.B. von der zoroastrischen Bestattungsstätte ausging. Aber auch das über Yazd Gelesene hatte neugierig gemacht: dass die alte Wüstenstadt von jeher multi-religiös war (ähnlich wie das alte Bam) und einiges von diesem Erbe bis heute bewahrt hat. Seit über 1300 Jahren lebt hier die grösste zoroastrische Gemeinde. Im Gegensatz zum 500 km weiter nordwestlich gelegenen Qom, der Hochburg der schiitischen Geistlichkeit, steht Yazd für religiöse Toleranz. Während wir darum Qom aus dem Reiseplan strichen (was uns auch im Iran selbst mehrmals nahegelegt wurde), wollten wir die Stadt am Rand der grossen Wüsten unbedingt kennen lernen.
 
-**Der Zoroastrismus**
+{{< h3 class="mv0" >}}Der Zoroastrismus{{< /h3 >}}
 Mittwoch, 24. September
 
 Bei den Felsreliefs in Taq-é Bostan (siehe Bericht vom 13. September) waren wir aufmerksam geworden auf die Götterabbilder. Bei der Amtseinsetzung sasanidischer Könige werden Ahura Mazda, Mithras und die Göttin Anahita als Hauptakteure dargestellt. Zweimal sieht man, wie Ahura Mazda (einmal gemeinsam mit Anahita) dem König die Ringe der Macht überreicht. Es sind zoroastrische Gottheiten, welche die (politische) Funktion haben, die Königsherrschaft zu legitimieren. Bereits die Achämenidenkönige berufen sich seit Darius I. um 500 v.Chr. auf den Gott Ahura Mazda und ab Artaxerxes II. etwa 100 Jahre später zusätzlich auf Mithras und Anahita. Auch nach altpersischen Königsinschriften gipfelt Ahura Mazdas Tun darin, den jeweiligen Grosskönig als legitimen Herrscher einzusetzen.

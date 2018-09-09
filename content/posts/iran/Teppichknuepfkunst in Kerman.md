@@ -23,12 +23,7 @@ nicht, das Hotel war gut belegt, auch von europäischen Reisegruppen. 20
 Minuten später war der Hotelwechsel vollzogen, und wir waren unterwegs
 zur Teppichknüpferei.
 
-![Teppichknüpferinnen](images/teppichkn%C3%BCpferinnen_1.jpg)
-
-![Teppichknüpferinnen](images/teppichkn%C3%BCpferinnen_2.jpg)
-
-Kerman. Eines der beiden führenden Teppichknüpfzentren Irans; präziseste
-Arbeit für bescheidenen Lohn!
+{{< figure src="../images/teppichknuepferinnen.jpg" caption="Kerman. Eines der beiden führenden Teppichknüpfzentren Irans; präziseste Arbeit für bescheidenen Lohn!" >}}
 
 Wir gingen da dann einfach mal rein in Gebäude bzw. in eine Halle, wo
 hinter- und nebeneinander zwei Dutzend Riesendinger von Knüpfrahmen
@@ -50,9 +45,9 @@ fotografierten. Und auch die Reissfestigkeit des Florgarns durften wir
 prüfen (es gelang uns nicht, einen Faden zu zerreissen), aber wir
 durften auch nicht mal ein Ende eines Fadens an uns nehmen.
 
-![Ein historischer
-Kerman](images/historischer_kerman.jpg "Ein historischer Kerman")Wir
-betraten danach einen Raum, wo die Teppiche aufbewahrt werden. Männer
+{{< figure src="../images/historischer_kerman.jpg" caption="Ein historischer Kerman" >}}
+
+Wir betraten danach einen Raum, wo die Teppiche aufbewahrt werden. Männer
 waren da beim Expertengespräch, schichteten dabei Stück für Stück um.
 Auch wenn wir nicht verstanden, was sie diskutierten, war es für uns
 Anschauungsunterricht im buchstäblichen Sinn. Kein Teppich schaute aus
@@ -75,9 +70,7 @@ weil die Knüpferinnen für die hochpräzise und strenge Arbeit pro Monat
 weniger als 100 Franken verdienen.) Verkauft würden die Teppiche
 übrigens nicht in Kerman, sondern in Tehran.
 
-Kaufen kann man die Teppiche in Kerman übrigens nicht. Gehandelt werden
-sie in Tehran. ![Kerman. Pflanzenfarbstoffe und eingefärbteWolle für die
-Teppichknüpferei.](images/pflanzenfarbstoffe_und_eingef%C3%A4rbte_wolle.jpg "Kerman. Pflanzenfarbstoffe und eingefärbteWolle für die Teppichknüpferei.")
+{{< figure src="../images/pflanzenfarbstoffe_und_eingefärbte_wolle.jpg" caption="Kerman. Pflanzenfarbstoffe und eingefärbte Wolle für die Teppichknüpferei.">}}
 
 Kurz vor Mittag, als wir unterwegs waren zu einem Laden für
 Kunsthandwerk, diesen aber nicht fanden, sprach uns eine hübsche, junge
@@ -179,9 +172,9 @@ besuchten wir auch einen kleinen Teppichladen. Ein Kerman von der Grösse
 wir dem Vorsatz treu bleiben wollten. 4,2 Millionen Rial, also 700
 Franken, sollte er kosten.
 
-![Hätten wir diesen Kerman doch kaufen
-sollen?](images/kerman_in_kerman.jpg "Hätten wir diesen Kerman doch kaufen sollen?")Seit
-Esfahan wussten wir, dass Händler Teppiche ins Ausland in ein
+{{< figure src="../images/kerman_in_kerman.jpg" caption="Hätten wir diesen Kerman doch kaufen sollen?" >}}
+
+Seit Esfahan wussten wir, dass Händler Teppiche ins Ausland in ein
 Zollfreilager liefern, wo der Kunde sie abholt und auch bezahlt. Falls
 er das nicht tut, geht der Teppich wieder an den Händler zurück. Diesem
 bleiben dann die Kosten für den Hin- und Rücktransport. Das Risiko trägt
@@ -199,17 +192,12 @@ die Hälfte.
 Wenn wir den Preis um einen Drittel hätten herunterhandeln können, wären
 wir dem Vorsatz vermutlich untreu geworden und hätten den Teppich
 gekauft. So entschieden wir uns nach einigem Werweissen schliesslich
-dagegen.
+dagegen. Den Spaziergang beendeten wir im Chaykhaneh-yé, im sehr speziellen
+Teehaus im Basar Vakil.
 
-Den Spaziergang beendeten wir im Chaykhaneh-yé, im sehr speziellen
-Teehaus im Basar Vakil.![Entspannung nach einem ausgedehnten Basarbummel
-im atmosphärisch schönsten Teehaus
-Kermans](images/entspannung_mit_wasserpfeife.jpg "Entspannung nach einem ausgedehnten Basarbummel im
-atmosphärisch schönsten Teehaus Kermans") Wir sassen hier wie in den
-Teehäusern üblich auf einer Art übergrossem hölzernen Bettgestell –
-belegt war es mit einem Kelim, einem Teppich ohne Florknüpfung –, hatten
-im Rücken ein dickes Kissen und vor uns Tee, Gebäck und eine
-Wasserpfeife. Wir befanden uns in einem der atmosphärisch
+{{< figure src="../images/entspannung_mit_wasserpfeife.jpg" caption="Entspannung nach einem ausgedehnten Basarbummel im atmosphärisch schönsten Teehaus Kermans" >}}
+
+Wir sassen hier wie in den Teehäusern üblich auf einer Art übergrossem hölzernen Bettgestell – belegt war es mit einem Kelim, einem Teppich ohne Florknüpfung –, hatten im Rücken ein dickes Kissen und vor uns Tee, Gebäck und eine Wasserpfeife. Wir befanden uns in einem der atmosphärisch
 eindrucksvollsten öffentlichen Räume der Stadt. Dekor, Raumaufteilung
 und die Naturnähe (durch das Teehaus fliesst ein Bächlein und diesem
 entlang wachsen Bäumchen und Büsche) wirken, obwohl arrangiert, ebenso
@@ -242,11 +230,7 @@ sich, kaum hatten wir Platz genommen, zu uns vorbeugte und zu flüstern
 anfing. Einmal mehr sollten wir Auskunft geben, wie wir über den Iran
 dachten. Das taten wir auch diesmal zurückhaltend und höflich, nannten
 Gastfreundschaft, landschaftliche und städtebauliche Qualitäten als
-besondere Eindrücke. Der 
-
-Mann zeigte sich gar nicht zufrieden: „Sie haben ein falsches Bild vom
-Iran. Nehmen Sie bitte zur Kenntnis, in welch miserablem politischen und
-wirtschaftlichen Zustand sich das Land befindet.“
+besondere Eindrücke. Der Mann zeigte sich gar nicht zufrieden: „Sie haben ein falsches Bild vom Iran. Nehmen Sie bitte zur Kenntnis, in welch miserablem politischen und wirtschaftlichen Zustand sich das Land befindet.“
 
 Der Mann tat uns gegenüber mit leiser, aber eindringlicher Stimme seine
 Wut kund über die seiner Überzeugung nach unhaltbare Situation. Er

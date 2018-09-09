@@ -4,7 +4,7 @@ date = 2003-09-27
 slug = "shiraz"
 +++
 
-**Bei Hafiz und auf den Spuren von Goethe**
+{{< h3 class="mv0" >}}Bei Hafiz und auf den Spuren von Goethe{{< /h3 >}}
 Samstag, 27. September
 
 Shiraz ist eine moderne Grossstadt mit über einer Million Einwohnern. Sie liegt in einer Ebene auf 1540 m ü.M. und dehnt sich aus über mehr als 220qkm. Keilinschriften in Persepolis belegen, dass es hier schon in achämenidischer Zeit eine Stadt gab. Als die arabischen Muslime im 7. Jh. den Iran eroberten, bauten sie in dieser Ebene ein Heerlager auf; nach ihrem Sieg entstand daraus allmählich die islamische Stadt Shiraz. Vom 9. bis 11. Jh. war Shiraz unter den Saffariden – sie befreiten Persien von der Fremdherrschaft durch Bagdad – und den nachfolgenden Dynastien Hauptstadt. In den zwei Jahrhunderten danach entwickelte sie sich zum Zentrum der persischen Literatur. Beim Mongolensturm nach 1200 unbehelligt geblieben, wurde die Stadt 1729 von den Afghanen zerstört und geplündert. Als sie unter Karim Khan aus der Zand-Dynastie 1747-79 wieder Hauptstadt wurde, erholte sie sich und erlebte eine neue Blütezeit. Viele der damals entstandenen oder restaurierten Bauten machen noch heute den architektonischen Reichtum der modernen Privinzhauptstadt aus.
@@ -27,38 +27,38 @@ Mancher liest in einem Blatte
 Und versteht den Inhalt nicht.
 Leider konnten wir der beschränkten Zeit wegen nur mit wenigen Gedichten kurze Zufallsbekanntschaften machen, aber schon das reichte, den Funken überspringen zu lassen und die unerhörte Ausdruckskraft und Jugendfrische selbst noch in der Übersetzung zu spüren. Gerold übertrug zwei Gedichte in das ‚Büchlein für alles’. Sie gerieten da zwar in einem reichlich prosaischen Kontext, aber das tat ihren keinen Abbruch. Das eine sei hier eingefügt; es ist ein geistreiches Liebesbekenntnis an einen hübschen Jüngling. Charakteristisch für Hafiz sind u.a. der erotische Bilderreichtum und die Verbindung von Ergriffensein und Ironie:
 
-Hochaufstrebende Zypresse
-Mit dem schönen Gange,
-Zartgeformter Herzensräuber
-Mit der Rosenwange,
-Hast mit deinen schlanken Ränken
-Mir das Herz gestohlen:
-Drum sei's um Gotteswillen
-Dir auch anempfohlen!
-Seit ich deiner beiden Augen
-Zauberkunst gesehen,
-Ist's um meines Herzens Ruhe
-Und Geduld geschehen.
-Schüttelst du die Hyazinthen
-Deiner Lockenhaare,
-Wird fortan der Moschus silber
-Zur gemeinen Ware.
-Mache dir den Bruch der Treue
-Nimmer zum Gesetze:
-Nur nach Treue magst du streben
-O meine schlauer Götze!
-Und von Zeit zu Zeit beglücke
-Mich mit einem Kusse,
-Dass der Lebensbaum dir trage
-Früchte zum Genusse!
-Staunen überkommt Hafisen,
-Der zu dir nur flehet,
-Und auch ohne Geld und Silber
-Dir zu Diensten stehet.
+> Hochaufstrebende Zypresse<br>
+Mit dem schönen Gange,<br>
+Zartgeformter Herzensräuber<br>
+Mit der Rosenwange,<br>
+Hast mit deinen schlanken Ränken<br>
+Mir das Herz gestohlen:<br>
+Drum sei's um Gotteswillen<br>
+Dir auch anempfohlen!<br>
+Seit ich deiner beiden Augen<br>
+Zauberkunst gesehen,<br>
+Ist's um meines Herzens Ruhe<br>
+Und Geduld geschehen.<br>
+Schüttelst du die Hyazinthen<br>
+Deiner Lockenhaare,<br>
+Wird fortan der Moschus silber<br>
+Zur gemeinen Ware.<br>
+Mache dir den Bruch der Treue<br>
+Nimmer zum Gesetze:<br>
+Nur nach Treue magst du streben<br>
+O meine schlauer Götze!<br>
+Und von Zeit zu Zeit beglücke<br>
+Mich mit einem Kusse,<br>
+Dass der Lebensbaum dir trage<br>
+Früchte zum Genusse!<br>
+Staunen überkommt Hafisen,<br>
+Der zu dir nur flehet,<br>
+Und auch ohne Geld und Silber<br>
+Dir zu Diensten stehet.<br>
 
 {{< figure src="../images/goethe.jpg" caption="Goethe" >}}
 
-Die erste deutsche Übersetzung des ‚Divan’ (1812/13) wirkte sehr stark auf Johann Wolfgang Goethe. Er fühlte sich dem Perser tief geistesverwandt, sah in ihm seinen „Zwilling“, mit dem er in eigenen Nachdichtungen wetteifern wollte, so dass er 1819 als 70-Jähriger seinen "West-östlichen Divan" veröffentlichte. Mit „west-östlich“ wollte er die Begegnung zweier Literaturen und das Bekenntnis des westlichen zu einem östlichen Dichter charakterisieren.
+Die erste deutsche Übersetzung des ‚Divan’ (1812-13) wirkte sehr stark auf Johann Wolfgang Goethe. Er fühlte sich dem Perser tief geistesverwandt, sah in ihm seinen „Zwilling“, mit dem er in eigenen Nachdichtungen wetteifern wollte, so dass er 1819 als 70-Jähriger seinen "West-östlichen Divan" veröffentlichte. Mit „west-östlich“ wollte er die Begegnung zweier Literaturen und das Bekenntnis des westlichen zu einem östlichen Dichter charakterisieren.
 Goethe sah sich durch die Hafiz-Lektüre verjüngt. Zum ersten Mal seit Schillers Tod (1805) fühlte er ein Wiederaufleben seiner schöpferischen Kräfte. Die Auseinandersetzung mit der orientalischen Literatur, u.a. auch mit Saadi, dem zweiten grossen Shirazer Dichter, war für ihn ein Aufbruch in die „Urheimat der Menschheit“.
 Wir fragten auch nach einer Goethe-Ausgabe und bekamen eine persische Übersetzung des „West-östlichem Divan“ ausgehändigt. Sie enthält auch Bilder, u.a. eines von Marianne Willemer. Sie war die „Suleika“ in Goethes Gedichten. Aus der Leidenschaft zwischen dem Dichter und der 35 Jahre jüngeren Frau erwuchs im Herbst 1815 ein grosser Teil der ‚Divan’-Gedichte. Erstmals in deutscher Sprache wurde hier ein Liebesdialog in Gedichten geführt, und Marianne war auch die erste und einzige Frau, die auf Goethes Gedichte ebenfalls lyrisch antwortete. Immer waren es Motive aus dem ‚Divan’ des Hafiz, auf den sich der Dialog der beiden bezog.
 

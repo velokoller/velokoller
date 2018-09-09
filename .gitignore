@@ -8,7 +8,7 @@ scrape
 hugo*
 
 # Generated files at default location
-/public/
+/public
 /resources/_gen
 
 ### macOS ###

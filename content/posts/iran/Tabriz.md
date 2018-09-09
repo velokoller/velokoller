@@ -4,7 +4,6 @@ date = 2003-08-29
 slug = "tabriz"
 +++
 
-{{< h3 >}}Tabriz{{< /h3 >}}
 29\. August
 
 Tabriz, die ProvinzhauptstadtOstazarbaidjans, liegt auf 1340 m ü.M. und
@@ -49,7 +48,7 @@ sehr trocken ist. Einheimische meinten, es sei zur Zeit eher wärmer als
 üblich, aber wir hätten den Reisebeginn gut gewählt, denn zwei Wochen
 früher sei es deutlich heisser gewesen.
 
-**Begegnungen mit Frauen**
+{{< h3 class="mv0" >}}Begegnungen mit Frauen{{< /h3 >}}
 
 Wie waren uns bis jetzt eigentlich die Iranerinnen begegnet? Im
 Unterschied zum Nachbarland Pakistan, das Gerold wenige Jahre zuvor
@@ -109,7 +108,7 @@ auch letztes Kapitel des historischen Überblicks.) Im Unterschied zu
 ihnen dünkten uns Männer träger und mutloser. Zu viele liessen sich
 treiben in trüben Tümpeln des Selbstmitleids.
 
-**Sprachbarrieren?**
+{{< h3 class="mv0" >}}Sprachbarrieren{{< /h3 >}}
 
 Was die Kommunikationssprache betraf, so wendeten wir unser bisschen
 Farsi von Beginn weg an. Wenn wir selbst angesprochen wurden, dann aber
@@ -125,9 +124,9 @@ Iran sei ein ‚Schurkenstaat’?» Englisch war das unzensierten Medium der
 Kommunikation. Leider stand schon jetzt zu befürchten, dass wir wenig
 Fortschritte in Farsi machen würden.
 
-![Shakes aller Art: Bananen, Melonen, Datteln, Granatapfel, Rüebli,
-...](images/shakes_aller_art.jpg "Shakes aller Art: Bananen, Melonen, Datteln, Granatapfel, Rüebli, ...")Warum
-sind so viele Iraner Klein- und Kleinsthändler - oder studieren
+{{< figure src="../images/shakes_aller_art.jpg" caption="Shakes aller Art: Bananen, Melonen, Datteln, Granatapfel, Rüebli, ..." >}}
+
+Warum sind so viele Iraner Klein- und Kleinsthändler - oder studieren
 englische Literatur?
 
 Am Freitag Vormittag fuhren wir zum El-Gholi-Park, dem riesigen
@@ -194,14 +193,11 @@ Trümmern geborgen und auf die neuen Wände aufgetragen werden. Bis die
 Restaurierungsarbeiten an und in der Kabud Mosque beendet sein werden,
 dürften noch Jahre vergehen.)
 
-![Aussenwände mit Überresten der
-Fliesenmosaiken](images/aussenw%C3%A4nde_mit_ueberresten_der_fliesenmosaiken.jpg "Aussenwände mit Überresten der Fliesenmosaiken")
+{{< figure src="../images/aussenwaende_mit_ueberresten_der_fliesenmosaiken.jpg" caption="Aussenwände mit Überresten der Fliesenmosaiken" >}}
 
-![Bilder vor dem Wiederaufbau der
-Moschee](images/bilder_vor_derm_wiederaufbau_der_moschee.jpg "Bilder vor dem Wiederaufbau der Moschee")
+{{< figure src="../images/bilder_vor_dem_wiederaufbau_der_moschee.jpg" caption="Bilder vor dem Wiederaufbau der Moschee" >}}
 
-![Wieder aufgetragene Fliesen nach der
-Restauration](images/wieder_aufgetragene_fliesen_nach_der_restauration.jpg "Wieder aufgetragene Fliesen nach der Restauration")
+{{< figure src="../images/wieder_aufgetragene_fliesen_nach_der_restauration.jpg" caption="Wieder aufgetragene Fliesen nach der Restauration" >}}
 
 Auf der Fahrt zurück zum Hotel lud uns Herr Reza zum Abendessen zu sich
 nach Hause ein. Es hole uns um 19 Uhr beim Hoteleingang ab. (Er spricht

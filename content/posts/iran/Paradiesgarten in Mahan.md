@@ -4,7 +4,6 @@ date = 2003-09-22
 slug = "der-paradiesgarten-in-mahan"
 +++
 
-**Der Paradiesgarten in Mahan**
 Montag, 22. September
 
 Wir wollten noch einmal in Richtung Bam fahren, dieses Mal aber nur 30 km weit, nach Mahan. Die Kleinstadt bietet zwei Sehenswürdigkeiten: das Mausoleum des Shah Nematollah Vali, des Gründers eines Sufiordens, der hier 1431 100-jährig verstarb, und einen Prinzengarten aus dem 19. Jahrhundert. Der Garten war unser Ziel. Um hinzukommen brauchten wir Geduld. Der Minibus-Terminal schien uns mit dem Bus am einfachsten zu erreichen, aber wir wollten sicher gehen und vergewisserten uns zweimal, ob der Bus auch wirklich zum besagten Platz fuhr. Bald merkten wir aber, dass wir zu irgendeinem Aussenquartiers unterwegs waren. Aber vielleicht würde der Fahrer nach einer Schleife wieder auf die Hauptstrasse einbiegen und uns ans Ziel bringen. Vergeblich gehofft, er kurvte durch immer schmalere Strassen und Gassen – und hielt so oft an, als ob er die Leute direkt zu ihrem Haus bringen bzw. von dort abholen müsste. Auszusteigen war nicht mehr ratsam, hatten wir die Orientierung doch längst verloren. Immerhin befanden wir uns nach einer Stunde wieder am Ausgangspunkt.

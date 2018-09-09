@@ -4,7 +4,7 @@ date = 2003-09-29
 slug = "shiraz-letzter-tag"
 +++
 
-**Gartenkultur, Schweizer Dialekt und eine Ethik-Debatte**
+{{< h3 class="mv0" >}}Gartenkultur, Schweizer Dialekt und eine Ethik-Debatte{{< /h3 >}}
 Montag, 29. September
 
 Vierter und letzter Tag in Shiraz. Wir hätten noch einiges anschauen können, die alte Freitagsmoschee zum Beispiel mit dem fast würfelförmigen Steinbau im Innenhof (wo wertvolle Koranexemplare aufbewahrt werden), das Grabmahl des Dichters Saadi oder eine der Gartenanlagen. Wir wollten kein gedrängtes Programm, hatten aber Lust auf Bewegung. Dass der Moloch Tehran noch einmal Anlass zu Stadtwanderungen geben würde, bezweifelten wir. Shiraz dagegen sieht schon auf dem Stadtplan beinahe wie eine Parklandschaft aus. Was lag näher als ein Streifzug durch einen bagh, einen Garten? Wir entschieden uns für den Bagh-é Eram im Nordwesten. Von hier aus konnten wir nachher versuchen, auf einen der nahen Hügel zu steigen, um die Stadt aus der Vogelperspektive anzuschauen.

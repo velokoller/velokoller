@@ -4,7 +4,6 @@ date = 2003-09-26
 slug = "persepolis"
 +++
 
-**Persepolis**
 Freitag, 26. September
 
 13 Tage zuvor hatten wir in Bisotun hinaufgeschaut zum Siegesrelief König Darius’ des Grossen. Hier, 40 km nordöstlich von Shiraz, befanden wir uns nun vor den Überresten der Residenzstadt, die 518 v. Chr. vom gleichen Achämenidenkönig gegründet, nach 120-jähriger Bauzeit vollendet und schon 331 v. Chr. von Alexander dem Grossen zerstört worden war. Die beiden Herrscher, von der Mit- und Nachwelt als ‚Grosse’ bezeichnet, manifestierten hier ihre Grösse auf je besondere Weise: Der eine baute, der andere zerstörte.
