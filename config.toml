@@ -9,7 +9,7 @@ footnoteReturnLinkContents = "↩"
 
 [params]
     ShortDateFmt = "02.01.2006"
-    LongDateFmt = "2. Januar, 2006"
+    LongDateFmt = "2. January, 2006"
     SectionSort = "asc"
     Copyright = "2018 Zeno Koller, Gerold Koller"
     PrevLabel = "← zurück"
