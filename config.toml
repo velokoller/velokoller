@@ -17,6 +17,9 @@ footnoteReturnLinkContents = "↩"
     IndexLabel = "Index"
     AttributionLabel = "Quelle"
 
+[outputs]
+    home = ["HTML", "JSON"]
+
 # [menu]
 #     [[menu.main]]
 #         identifier = "about"
