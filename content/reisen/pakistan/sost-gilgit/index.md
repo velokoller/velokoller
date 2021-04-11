@@ -1365,11 +1365,11 @@ beide besser kennen, und ich war nie einsam.
 
 [^3]: Auf Google Earth sieht man, dass heute zwei Strassen das Tal hinaufführen.
 
-[^4]: Vgl. das Kapitel „[Kashgar]({{< relref "posts/pakistan/kashgar/index.md" >}})“.
+[^4]: Vgl. das Kapitel „[Kashgar]({{< relref "reisen/pakistan/kashgar/index.md" >}})“.
 
 [^7]: Die Website des Diran Guest House zeigt, dass es der damaligen Krise trotzte. Das erweiterte oder neu gebaute Haus verfügt nach wie vor über den prächtigen Garten. An Gästen scheint es nicht zu mangeln.
 
-[^8]: Dass solches Verhalten keineswegs repräsentativ ist für Musliminnen, erlebten mein Sohn und ich vier Jahre später auf einer Veloreise durch den Iran. Iranerinnen trugen zwar Hijab-Kleider, zeigten aber selten Scheu vor Fremdem, im Gegenteil, sie ergriffen öfters selbst die Initiative, mit uns in Kontakt zu kommen. (Vgl. den Reisebericht „Iran“ – Untertitel „[Tabriz]({{< relref "posts/iran/Tabriz.md" >}})“.)
+[^8]: Dass solches Verhalten keineswegs repräsentativ ist für Musliminnen, erlebten mein Sohn und ich vier Jahre später auf einer Veloreise durch den Iran. Iranerinnen trugen zwar Hijab-Kleider, zeigten aber selten Scheu vor Fremdem, im Gegenteil, sie ergriffen öfters selbst die Initiative, mit uns in Kontakt zu kommen. (Vgl. den Reisebericht „Iran“ – Untertitel „[Tabriz]({{< relref "reisen/iran/Tabriz.md" >}})“.)
 
 [^12]: Offiziell befand sich Pakistan ja nicht im Krieg; man behauptete weiterhin, für die Vorgänge im Grenzgebiet nicht verantwortlich zu sein (siehe oben; Kargil-Krieg).
 
@@ -1377,6 +1377,6 @@ beide besser kennen, und ich war nie einsam.
 
 [^14]: Die Kleinstadt Murree liegt zwei Autostunden von Islamabad entfernt und 1800 m höher als die Hauptstadt. Sie ist eine der touristisch meistfrequentierten Orte im nördlichen Pakistan.
 
-[^15]: Vgl. unter anderen das Kapitel „[Kashgar]({{< relref "posts/pakistan/kashgar/index.md" >}})“.
+[^15]: Vgl. unter anderen das Kapitel „[Kashgar]({{< relref "reisen/pakistan/kashgar/index.md" >}})“.
 
 [^16]: Gemäss heutigen (2018) Internetrecherchen muss eine postexpositionelle Impfung spätestens 24 Stunden nach dem Biss beginnen. Hier vergingen zwischen dem Ereignis und der Impfung in Islamabad mehr als zwei Wochen.

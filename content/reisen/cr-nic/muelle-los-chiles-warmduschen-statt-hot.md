@@ -4,7 +4,7 @@ date = 2012-01-19
 slug = "muelle-los-chiles-warmduschen-statt-hot"
 +++
 
-****Noch im
+Noch im
 schlaftrunkenen Zustand werden wir mit der Überraschung konfrontiert: Im
 Bad fliesst kein Wasser! Gerade bei der heutigen Etappe bräuchten wir es
 besonders. Die Besitzerin des Motels meint auf die Frage, wann man denn
