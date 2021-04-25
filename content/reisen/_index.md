@@ -2,6 +2,8 @@
 title = "Reisen"
 +++
 
+{{< h3 class="mv0" >}}Reisen{{< /h3>}}
+
 Als Knabe plagte oft mich die Sehnsucht nach der Ferne. Vielleicht darum, weil unsere Familie Ferien nicht kannte. Die Eltern führten in Giswil ein Landesprodukte-Geschäft und einen kleinen Bauernhof (6 ha, vorwiegend Hanglage). Ohne Angestellte. Das bedeutete für uns (Familie mit drei Kindern) das ganze Jahr über Arbeit. Im Sommer war’s streng: heuen, Vieh besorgen (Vater gab keine Tiere auf die Alp), den Früchte- und Gemüse-Laden führen, abends Getränke ausliefern. (Wir hatten in OW ein Mineralwasser- und Obstsäfte-Depot.) Bauern bestellten sauren Most in Fässchen, andere Obwaldner harassweise Mineralwasser. Und gerade während der Schulferien kauften bei uns regelmässig ausländische Touristen Früchte, Gemüse und Getränke. Die meisten von ihnen waren Holländer. Solche, die jährlich wiederkamen, meinten, wir bräuchten ja nicht in die Ferien zu fahren, so schön, wie es hier sei: mit dem See, dem tollen Grundwald und dem abenteuerlichen Wildbach Laui. Wie sehr sie die Situation verkannten! Tatsächlich konnten wir nicht mal schwimmen lernen. Aber abgesehen vom Wissen, was Kinderarbeit bedeutet, schaue ich bis heute auch mit einer gewissen Genugtuung auf die Zeit zurück. Die Verantwortung, die ich mittrug, stärkte mich damals als Knabe. Die für und neben der Schule erbrachte Leistung beeinflussten mein Selbstwertgefühl nicht unwesentlich. Die Anforderungen waren in besonderer Art identitätsbildend. 
 
 Als die Eltern Geschäft und Bauernhof verkauften – meine Schwester und ich kamen ins Ausbildungsalter und würden zuhause als Arbeitskräfte wegfallen – und in den Kanton Luzern, nach Sursee, umzogen, änderte sich fast alles, v.a. lernten wir auch selber Ferien kennen. 
