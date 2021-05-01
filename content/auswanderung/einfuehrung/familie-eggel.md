@@ -1,9 +1,8 @@
 +++
-title = "Eine Auswanderung, die nicht genehm war"
+title = "Zur Geschichte der Familie Eggel aus Naters bzw. San Jerónimo Norte"
+navTitle = "Eine Auswanderung, die nicht genehm war"
 date = 2021-04-16
 +++
-
-{{< h3 >}}Zur Geschichte der Familie Eggel aus Naters bzw. San Jerónimo Norte{{< /h3 >}}
 
 {{% letter %}}
 (\...) Ich habe viel zu schaffen, habe wieder Unternehmung -- Steine zu bereiten für den Bahnhoff in Brig. Ich habe den Prozes mit dem Etter \[Onkel\] Josef reingewonnen; jetzt habe ich gefunden das der Platz neben des Etter Josefs Haus mein ist, wo wir das nächste Jahr ein Haus bauen werden, ich habe schon Baumaterial zubereitet u mit dem Maurermeister Tschugatti abgemacht u schon eine Summe darauf abverdient. Darum sage ich dir wenn wir dir lieb sind u dich an unserer Haushaltung etwas liegt, so musst du unverzüglich trachten dich auf die Rückreise zu begeben u uns hier behilflich sein. Sage dem Etter Josef das es ihm solle daran gelegen sein u dich wieder in die Heimat zu deinen Eltern senden, damit du uns hier beistehen kannst. Alles was ich mit dem gethan habe sei alles für ihn gewesen um ihm die Gesundheit u Langeweile zu konserwieren. Er solle sich daran beschäftigen u alle zusammen werden wohl im Stande sein dich wieder zu deinen Eltern zurückzusenden. Er ist ja geschikt genug u versteht es schon das mir meine beste Hoffnung ist aus dem Hause geraft worden. Vielleicht kann er bei der Regierung eine Freikarte bekommen u sagen du wollest trachten Leute heimzuhohlen. Was mir die Leute leith thun, das ich dich habe lassen fortziehen ist nicht auszusprechen u sie haben auch recht, lernen thust dort nichts, u wir hier zu viel zu schaffen u zu sorgen gnug nach ihrer Abreise habe ich Gliedersucht bekommen und habe grosse Schmerzen ausgestanden aber jetz bin ich wieder gesund u sind alle schön gesund nur die Mutter ist nicht zu trösten u glaubt das sie dich nie mehr sehen werde, sie ist untröstlich. Ist aber das sie dort kein Geld haben um dich hierherzusenden, so schreibe mir schnell, werde ich sogleich dem Brindlen in Sitten schreiben dich auf meine Kösten lassen kommen das wäre ein schöner Vorschlag von uns. (\...)[^1]
