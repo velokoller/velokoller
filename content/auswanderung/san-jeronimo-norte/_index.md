@@ -3,6 +3,7 @@ title = "San Jerónimo Norte – von der Gründung bis in die 1920er-Jahre"
 navTitle = "San Jerónimo Norte"
 slug = "san-jeronimo-norte"
 date = 2021-05-12
+weight = 3
 +++
 
 {{< h3 >}}San Jerónimo Norte – von der Gründung bis in die 1920er-Jahre{{< /h3 >}}
