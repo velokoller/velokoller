@@ -3,7 +3,7 @@ title = "Auswanderung"
 navTitle = "Auswanderung"
 slug = "theler-auswanderung"
 date = 2021-06-05
-weight = 2
+weight = 47
 +++
 
 Regina, das erste Kind, kam am 26. September 1889 zur Welt, neun Monate und ein paar Tage nach der Hochzeit. Das habe *das Eis vom Vater* schmelzen lassen, worauf man mit ihm *wieder gut sprechen* konnte. *Auch die Mutter war von da an wie ein umgekehrter Sack, und es klappte wieder in alter Harmonie.*
