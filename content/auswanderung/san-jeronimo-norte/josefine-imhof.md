@@ -218,11 +218,11 @@ Serafin u Josefine Imhof
 
 Darunter, offenbar mit Bleistift hinzugefügt:
 
-Bitte achtet nicht der schlechten Schrift u vielen Fehler. Mir sollte ein guter Geist auch eine Schreibmaschine besorgen.
+*Bitte achtet nicht der schlechten Schrift u vielen Fehler. Mir sollte ein guter Geist auch eine Schreibmaschine besorgen.*
 
-*Am linken Rand vertikal -- in derselben Schrift wie der Brief:*
+Am linken Rand vertikal -- in derselben Schrift wie der Brief:
 
-Möchten aber sehr bitten niemand zu sagen daß u was wir Ihnen wegen Schallbetter geschrieben haben.
+*Möchten aber sehr bitten niemand zu sagen daß u was wir Ihnen wegen Schallbetter geschrieben haben.*
 
 {{% /letter %}}
 
