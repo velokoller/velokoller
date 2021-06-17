@@ -3,7 +3,7 @@ title = "Rückwanderung?"
 navTitle = "Rückwanderung?"
 slug = "theler-rueckwanderung"
 date = 2021-06-06
-weight = 41
+weight = 6
 +++
 
 Ungeachtet der sich erfreulich entwickelnden Viehzucht wurmte es Theler, dass unmittelbar nach seinem Verzicht auf weiteren Getreideanbau gute Erntejahre folgten:

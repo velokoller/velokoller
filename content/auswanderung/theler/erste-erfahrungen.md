@@ -3,7 +3,7 @@ title = "Erste Erfahrungen"
 navTitle = "Erste Erfahrungen"
 slug = "theler-erste-erfahrungen"
 date = 2021-06-06
-weight = 45
+weight = 10
 +++
 
 Am frühen Morgen erreichte der Zug die 300 km entfernte Stadt Rosario.[^1] Zum ersten Mal sahen die Walliser die auf allen Seiten unendlich weiten, nahezu baumlosen Ebenen mit nur hin und wieder niedrigen Häusern. Strecken mit grossen Vieherden wechselten ab mit abgeernteten Weizenfeldern. Theler wunderte sich, frisch geerntetes Getreide ungeschützt auf *Schochen* (kleinen Haufen) liegen zu sehen. Wo gerade gedroschen wurde, sahen sie rauchende Dampfmaschinen. Seinen Erinnerungen zufolge hinterliessen die weiten Ebenen bei einigen einen zwiespältigen Eindruck. Jedenfalls schreibt er: *Wir haben jetzt unsre schöne Schweiz vertauscht an dieses Landschaftsbild.* Daran mussten sich alle zuerst gewöhnen. Als sie schliesslich Rafaela erreichten und in einer *Fonda* (Gasthaus) essen wollten, verging ihnen, trotzdem sie hungrig waren, der Appetit. So viele Fliegen bedeckten die dampfenden Schüsseln, wie sie es selbst in Visp nie gesehen hätten.

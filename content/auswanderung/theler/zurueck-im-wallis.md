@@ -3,7 +3,7 @@ title = "Zurück im Wallis"
 navTitle = "Zurück im Wallis"
 slug = "theler-zurueck-im-wallis"
 date = 2021-06-06
-weight = 40
+weight = 5
 +++
 
 *Ende März 1910 sagten wir Ambrosetti Lebwohl.* Als sie in Rosario die Köpfe aus dem Zugfenster streckten, wäre ihnen beinahe das Bargeld von 600 Pesos gestohlen worden, denn ein Taschendieb griff in Thelers Hosentasche. Weil der schnell genug reagierte, nahmen der Dieb und ein zweiter Gauner Reissaus. -- Die Reise von Buenos Aires nach Marseille verlief reibungslos. Wir erfahren einzig, dass die Verpflegung dieselbe gewesen sei wie 18 Jahre zuvor auf dem Dampfer Dom Pedro. Die Reisekosten für die Grossfamilie dürften ungefähr 2500 Franken betragen haben.

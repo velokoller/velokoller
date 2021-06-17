@@ -3,7 +3,7 @@ title = "Die Reise"
 navTitle = "Reise"
 slug = "theler-reise"
 date = 2021-06-05
-weight = 46
+weight = 11
 +++
 
 Gemeinsam mit sechs Familien aus dem Vispertal fuhren die Thelers am 12. Dezember 1892 mit der Eisenbahn über Pontarlier und Paris nach Le Havre, wo sie zwei Tage später auf dem Fracht- und Passagierdampfer Dom Pedro die Fahrt über den Atlantik antraten. Die Reisekosten 3. Klasse betrugen pro erwachsener Person 190 Franken, für jedes Kind einen Viertel davon. Am 14. Dezember, 26 Tage später, erreichte der Dampfer Buenos Aires.

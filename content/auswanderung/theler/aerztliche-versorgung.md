@@ -3,7 +3,7 @@ title = "Ärztliche Versorgung"
 navTitle = "Ärztliche Versorgung"
 slug = "theler-aertztliche-versorgung"
 date = 2021-06-06
-weight = 42
+weight = 7
 +++
 
 Erst gegen Ende der Rückschau kommt Theler auf das Thema Gesundheit resp. ärztliche Versorgung zu sprechen. Das hängt ohne Zweifel damit zusammen, dass sich alle Familienmitglieder (abgesehen vom verstorbenen Sohn Meinrad) durchwegs einer robusten Gesundheit erfreuten. Maria Josepha scheint alle Geburten ohne nennenswerte Komplikationen überstanden zu haben. In der Chronologie der Erzählung gibt es nur zwei Stellen, wo von einer physischen Beeinträchtigung die Rede ist, und zwar bei ihm selber, das erste Mal, als er kurz nach der Ankunft in Argentinien wegen eines eiternden Fusses eine Zeitlang arbeitsunfähig war, und später, als er sich bei der Arbeit in der Schmiede derart verletzte, dass er diese Arbeit aufgab.

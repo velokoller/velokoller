@@ -1,5 +1,5 @@
 +++
-title = "Joh. Chr. Thele"
+title = "Joh. Chr. Theler"
 date = 2021-06-05
 weight = 4
 +++
@@ -13,5 +13,7 @@ weight = 4
 Maria Josepha starb 81-jährig am 30. Januar 1948, ihr Ehemann Johann Christian sieben Jahre später, am 9. März 1955 im Alter von 89. Beide verbrachten ihren Lebensabend in Zürich.
 
 Die Nachkommen des Ehepaars Theler-Salzgeber leben heute in der Schweiz oder in Argentinien.
+
+{{< figure src="images/image7.jpeg" caption="Auf die Fragen wer? was? wo? und wann? bekommt man später in der Geschichte Antwort" >}}
 
 [^1]: Das primäre Ziel der Kolonisierung von Misiones war der Anbau von Yerba. (Die zerkleinerten Blätter des Mate-Strauchs werden in Uruguay, Paraguay und Argentinien als *yerba* bezeichnet.)
