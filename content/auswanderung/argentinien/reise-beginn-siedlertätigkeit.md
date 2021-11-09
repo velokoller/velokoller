@@ -8,9 +8,9 @@ weight = 1
 Der 18-seitige Brief von Johannes Bodenmann, dem Bruder des eben genannten Lorenz Bodenmann, vom 10. Dezember 1857 ist ein einzigartiges Dokument über die Reise der ersten Walliser Auswanderergruppe nach Argentinien und ihre Erfahrungen als Pioniersiedler in der Provinz Entre Rios. Da Bodenmann erst acht Monate nach der Ankunft in Argentinien zur Feder griff, konnte er auch erzählen, wie sie zu ihrem Land kamen und wie sie als Kolonisten starteten. Der Brief ist nicht nur wegen des Informationsgehalts, sondern auch von der erzählerischen Qualität her besonders wertvoll. Einen Teil präsentiere ich im Originalton, den Rest als Nacherzählung.
 
 {{% aside %}}
-Über Johannes Bodenmann und seiner Familie:
+Über Johannes Bodenmann und seine Familie:
 
-Johannes Bodenmann, seine Frau Viktoria Ambord und vier Söhne im Alter zwischen fünf und elf Jahren wohnten vor der Emigration in Deisch, einem zu Grengiols gehörenden Weiler unterhalb von Lax. Johannes war zur Zeit der Auswanderung 35-jährig, seine Frau zwei Jahre älter. Wie oben ausgeführt, war er fünf Jahre zuvor der grossen Schuldenlast wegen geflohen. Daraufhin bekamen die Kinder Vormünder und das Anwesen wurde versteigert. Klaus Anderegg vermutet, dass die annähernd 1\'500 Franken Reisegeld für die Familie von Verwandten aufgebracht wurde. Weil ein Konkurs damals als Verletzung des familiären Ehrenkodexes galt, war man vermutlich froh, dass Johannes mit der Familie das Dorf verliess.
+Johannes Bodenmann, seine Frau Viktoria Ambord und vier Söhne im Alter zwischen fünf und elf Jahren wohnten vor der Emigration in Deisch, einem zu Grengiols gehörenden Weiler unterhalb von Lax. Johannes war zur Zeit der Auswanderung 35-jährig, seine Frau zwei Jahre älter. Wie oben ausgeführt, war er fünf Jahre zuvor der grossen Schuldenlast wegen geflohen. Daraufhin bekamen die Kinder Vormünder und das Anwesen wurde versteigert. Klaus Anderegg vermutet, dass die annähernd 1500 Franken Reisegeld für die Familie von Verwandten aufgebracht wurde. Weil ein Konkurs damals als Verletzung des familiären Ehrenkodexes galt, war man vermutlich froh, dass Johannes mit der Familie das Dorf verliess.
 {{% /aside %}}
 
 Bereits die Brief-Einleitung ist bemerkenswert. Bodenmann zeigt sich als Mann mit robuster Identität:
@@ -32,13 +32,13 @@ Auch Franz Holzer von Fiescherthal ist eine Strecke von Basel fort in einem klei
 Dramatisch dagegen war die Erkrankung von Elias Ambord:
 
 {{% letter %}}
-Elias Ambord[^1] hat in Basel die Kindsblattern bekommen und ist dort zurückgeblieben, doch aber 3 Tage nachher ist er auch in Antverbe angekommen, aber in einem sehr schlechten Zustande, so daß er dort in den Spital gekommen halb todt, ein jeder hat geglaubt es müsse gestorben seÿn und auch die Dokter haben es gesagt, so haben wir ihn dort wie­derum müßen zurücklassen, doch ist er aber wiederum zu seiner guten Gesundheit gelangt und ist in Buenos-Ayres angekommen mit einem andern Transporte, am 3^ten^ Weinmonat ist er aber nach Santa-Fee gereißt.
+Elias Ambord[^1] hat in Basel die Kindsblattern bekommen und ist dort zurückgeblieben, doch aber 3 Tage nachher ist er auch in Antverbe angekommen, aber in einem sehr schlechten Zustande, so daß er dort in den Spital gekommen halb todt, ein jeder hat geglaubt es müsse gestorben seÿn und auch die Dokter haben es gesagt, so haben wir ihn dort wie­derum müßen zurücklassen, doch ist er aber wiederum zu seiner guten Gesundheit gelangt und ist in Buenos-Ayres angekommen mit einem andern Transporte, am 3. Weinmonat ist er aber nach Santa-Fee gereißt.
 {{% /letter %}}
 
 Die sechs Tage bis zum Auslaufen des Schiffes wurden genutzt, um Waren einzukaufen,
 
 {{% letter %}}
-Speißen für auf das Meer, Kleider, Eißenwahren, so man dort gut um den halben Theil billi­ger bekommen hat als im Wallis. So rathe ich noch einem jeden Lusthabenden Auswan­derer nach America beÿ Hauss keine viele Ausgaben zu machen um sich Sachen an­zukaufen denn in den Meerhäfen bekommt man es immer billiger und was man dortt ge­kauft hat / haben\'s wir weiters keine Fuhrkosten mehr braucht zu bezahlen.[^2]
+Speißen für auf das Meer, Kleider, Eißenwahren, so man dort gut um den halben Theil billi­ger bekommen hat als im Wallis. So rathe ich noch einem jeden Lusthabenden Auswan­derer nach America beÿ Hauss keine viele Ausgaben zu machen um sich Sachen an­zukaufen denn in den Meerhäfen bekommt man es immer billiger und was man dortt ge­kauft hat / haben's wir weiters keine Fuhrkosten mehr braucht zu bezahlen.[^2]
 {{% /letter %}}
 
 Das Segelschiff, ein Zweimaster, hatte 108 Passagiere, acht Matrosen und einen Arzt an Bord. (Die Walliser Gruppe zählte 80 Leute, darunter 14 Familien, eine davon aus dem Lötschental mit elf Kindern.) Die Verpflegung sei unzureichend gewesen, so dass die Passagiere auf eigene Nahrungsmittel angewiesen waren. Bei schlechtem Wetter mussten sie unter Deck bleiben, was bei den engen Platzverhältnissen fast unerträglich war. In den kleinen Kajüten mit einem einzigen breiten Bett (bzw. einer Pritsche, für die sie das Stroh im Hafen kaufen mussten) waren sie zusammengepfercht. Bodenmanns Familie teilte sich zu sechst einen Raum. Er schildert, wie belastend Gestank, Hitze und Kindergeschrei waren.
@@ -60,7 +60,7 @@ die gut haben können singen besonders auf Abend oder Anfangs der Nacht wo der s
 Aber nicht immer spielte der Wettergott mit. Schon während der ersten Woche auf See und dann nochmals anfangs Juni durchlebten die Passagiere angstvolle Tage:
 
 {{% letter %}}
-Am 9^ten^ und zehnten Maÿ haben wir den ersten Sturm so daß wir immer geglaubt ha­ben, das Schiff müße untergehen. Das Wasser hat um das Schiff herum getobt und sich aufgerichtet wie die größten Berge, so daß mich dünkte, das Schiff liege in einem tiefen Thale herunter und wälzte so stark, daß das Gepäck alles übereinander geschla­gen worden, wir konten auch nicht mehr im Bette liegen, da kamen denn die Matroßen und der Schiffskapitän und lachten unser wenn wir recht Klupf \[Angst\] hatten, sagend, das seÿ gar keine Gefahr zum untergehen, es müße noch viel anderst kommen, wenn es gefährlich seÿn solle, so sind wir in diesen 2 Tagen anstatt vor, 30 Stunden zurückgetrie­ben worden durch die Wellen.
+Am 9. und zehnten Maÿ haben wir den ersten Sturm so daß wir immer geglaubt ha­ben, das Schiff müße untergehen. Das Wasser hat um das Schiff herum getobt und sich aufgerichtet wie die größten Berge, so daß mich dünkte, das Schiff liege in einem tiefen Thale herunter und wälzte so stark, daß das Gepäck alles übereinander geschla­gen worden, wir konten auch nicht mehr im Bette liegen, da kamen denn die Matroßen und der Schiffskapitän und lachten unser wenn wir recht Klupf \[Angst\] hatten, sagend, das seÿ gar keine Gefahr zum untergehen, es müße noch viel anderst kommen, wenn es gefährlich seÿn solle, so sind wir in diesen 2 Tagen anstatt vor, 30 Stunden zurückgetrie­ben worden durch die Wellen.
 {{% /letter %}}
 
 Anlässlich der Äquator-Passage -- Bodenmann verwendet den Ausdruck «Sonnen Linie» -- nahmen sie teil am Ritual der Äquatortaufe.
@@ -72,13 +72,13 @@ Da haben sich die erwachsenen Mannes­personen müßen auf einen Stuhl absitzen 
 Am 11. Juli erreichte das Schiff Montevideo und gleichentags Buenos Aires,
 
 {{% letter %}}
-alle Gott seÿ dank mit guter Gesundheit und ist uns Niemand auf dem Meer gestorben. Was das aber für eine Freude war, als wir beÿ St. Maria wiederum das 1^te^ Land gesehen, das kann uns Niemand glauben.
+alle Gott seÿ dank mit guter Gesundheit und ist uns Niemand auf dem Meer gestorben. Was das aber für eine Freude war, als wir beÿ St. Maria wiederum das 1te Land gesehen, das kann uns Niemand glauben.
 {{% /letter %}}
 
 Bodenmann schildert Buenos Ayres mit damals 18'000 Einwohnern als sehr grosse Stadt. Einiges fällt ihm besonders auf: der rege Handel, die einstöckigen Häuser und die schmutzigen Gassen. Die Leute würden «spaniolisch*»* sprechen. Man bezahle mit spanischem Geld, kleine Beträge mit Papiergeld, grössere mit Gold.
 
 {{% letter %}}
-Am l5^ten^ sind wir wiederum in ein anderes Schiff gekommen, da hat es geheißen, wer nach Santa Fee will muss noch einige Täge warten, wer aber nach Corrienthes gear­kordiert hat, der kann vorwärts gehen, so sind etwan beÿ 9 oder 10 Personen zurück­geblieben, von Grengiols aber nur mein Bruder Lorenz, Theresia Heinen und Ester Walter, die sind dann später über den Paranäen Fluß \[Rio Paraná\] nach Santa Fee gereißt, und wir übrigen aber sind über den FIuß Lorequai[^3] nach Entroria \[Entre Rios\], von welchem wir gar nicht gewußt haben, daß wir hieher kommen, sondern glaubten immer wir kommen nach Corienth.
+Am l5. sind wir wiederum in ein anderes Schiff gekommen, da hat es geheißen, wer nach Santa Fee will muss noch einige Täge warten, wer aber nach Corrienthes gear­kordiert hat, der kann vorwärts gehen, so sind etwan beÿ 9 oder 10 Personen zurück­geblieben, von Grengiols aber nur mein Bruder Lorenz, Theresia Heinen und Ester Walter, die sind dann später über den Paranäen Fluß \[Rio Paraná\] nach Santa Fee gereißt, und wir übrigen aber sind über den FIuß Lorequai[^3] nach Entroria \[Entre Rios\], von welchem wir gar nicht gewußt haben, daß wir hieher kommen, sondern glaubten immer wir kommen nach Corienth.
 {{% /letter %}}
 
 Was sie nach der zweitägigen Flussfahrt am Morgen des 3. Tages erwartete, schildert er so:
@@ -107,7 +107,7 @@ Für ausgeliehenes Geld mussten hohe Zinsen bezahlt werden, in der Regel mehr al
 
 {{< figure src="../images/image1.jpeg" caption="Dokumente aus der Zeit der Walliser Auswanderung" >}}
 
-Als sie endlich ihr quadratisches Stück Land in Besitz nahmen, mussten sie zuallererst eine «Notbehausung» bauen. Das machten sie wie unter den gegebenen Umständen üblich, und wie es mehr als 30 Jahre später auch Johann Christian Theler[^6] beschreibt: Wände aus aufeinander geschichteten Rasenziegeln, das Dach aus Schilfrohr. Dann war eine Koppel fürs Vieh zu bauen und ein Stück Boden für einen Garten umzubrechen. Bodenmanns taten letzteres auf einer Fläche von 200 Quadratmetern. Die erste Bepflanzung brachte noch keinen Ertrag, denn die Erde sei *für den Garten Saamen noch zu hart, jetzt haben wir aber schon das 2^te^ mall an­gepflanzt in denen Gärten, welches jezt sehr schön kommt.*
+Als sie endlich ihr quadratisches Stück Land in Besitz nahmen, mussten sie zuallererst eine «Notbehausung» bauen. Das machten sie wie unter den gegebenen Umständen üblich, und wie es mehr als 30 Jahre später auch Johann Christian Theler[^6] beschreibt: Wände aus aufeinander geschichteten Rasenziegeln, das Dach aus Schilfrohr. Dann war eine Koppel fürs Vieh zu bauen und ein Stück Boden für einen Garten umzubrechen. Bodenmanns taten letzteres auf einer Fläche von 200 Quadratmetern. Die erste Bepflanzung brachte noch keinen Ertrag, denn die Erde sei *für den Garten Saamen noch zu hart, jetzt haben wir aber schon das 2te mall an­gepflanzt in denen Gärten, welches jezt sehr schön kommt.*
 
 Wurde bis dahin alles von Hand gemacht, kamen nun, da es ans Pflügen ging, die Ochsen zum Einsatz:
 
@@ -142,7 +142,7 @@ Das Interesse am Fremdartigen war für die Walliser Siedler keineswegs typisch. 
 Zurück zu Johannes Bodenmann. Als inzwischen geübter Reiter vergleicht er den *langsamen Schritt,* den *die Gommer Roß über Deisch auf und abgehen*, mit den flinken argentinischen Pferden, mit denen man dreimal so schnell wie zu Fuss unterwegs sei. *Die Roß laufen hier immer im Galopp,* so dass er sonntags schon nach drei statt nach neun Stunden in der Stadt sei, um *die 8 Uhr Meß* zu besuchen. Allerdings dürfe man die Reitpferde nicht vor einen Wagen spannen, denn dann würden sie nicht mehr schnell laufen können.
 
 {{% letter %}}
-Die Pferde sind et­was kleiner als beÿ euch aber viel muthiger, und sind so zart, daß sie ganz glänzen, überhaupt ist das ganze Vieh viel zarter als wie beÿ Euch. Es gibt auch aller Sorten Vieh / ausgenomen Ziegen sieht man hier keine, die Schafe sind hier etwas kleiner, den Preiß von einem Stück allein kann ich Ihnen nicht sagen / den\[n\] ein jeder Spaniol der Schafe be­sizt, hat immer eine ganze Herde die wenigstens 1000 Stück enthaltet und wenn man kaufen will, so muß man eine Hälfte, ein 3^tel^ oder 4t^el^ der Herde nehmen, so dann werden die Schafe zusamen getrieben ein Mann steigt zu Pferd und fahrt in geschwin­dem Galopp durch die Mitte der Herde und so werden sie zertheilt, der Käufer muß aber voraus melden, welche Seite er will. Will aber einer den 4^tel^, so wird der halbe Theil nocheinmal in 2 geritten. Eine Hälfte der Herde kann auf 100 Piaster oder 500 fr. kommen.
+Die Pferde sind et­was kleiner als beÿ euch aber viel muthiger, und sind so zart, daß sie ganz glänzen, überhaupt ist das ganze Vieh viel zarter als wie beÿ Euch. Es gibt auch aller Sorten Vieh / ausgenomen Ziegen sieht man hier keine, die Schafe sind hier etwas kleiner, den Preiß von einem Stück allein kann ich Ihnen nicht sagen / den\[n\] ein jeder Spaniol der Schafe be­sizt, hat immer eine ganze Herde die wenigstens 1000 Stück enthaltet und wenn man kaufen will, so muß man eine Hälfte, ein 3tel oder 4tel der Herde nehmen, so dann werden die Schafe zusamen getrieben ein Mann steigt zu Pferd und fahrt in geschwin­dem Galopp durch die Mitte der Herde und so werden sie zertheilt, der Käufer muß aber voraus melden, welche Seite er will. Will aber einer den 4tel, so wird der halbe Theil nocheinmal in 2 geritten. Eine Hälfte der Herde kann auf 100 Piaster oder 500 fr. kommen.
 {{% /letter %}}
 
 Besonders wichtig für die Walliser war die Frage nach der seelsorgerischen Betreuung der Migranten. Mit dem Hinweis zum drei-Stunden-Ritt zur Sonntagsmesse gibt Bodenmann schon mal Entwarnung. Aber dabei belässt er es nicht. Er hält fest, dass *auch hier überall die katholische Religion ist*. Was noch fehle, sei ein Seelsorger in der Kolonie selber. Jetzt habe jedoch *ein junger Priester an Maria Empfängnis neue Mess gelesen.* Dieser werde fortan *alle Sonn und Feÿertag auf die Kolonie kommen und uns besorgen, sobald wir aber eine Kirche und ein Häuschen dazu erbaut haben, wird er sich auf der Kolonie für immer niederlassen.*

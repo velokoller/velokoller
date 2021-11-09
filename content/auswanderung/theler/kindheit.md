@@ -3,7 +3,7 @@ title = "Kindheit in Ausserberg"
 navTitle = "Kindheit"
 slug = "theler-kindheit-ausserberg"
 date = 2021-06-05
-weight = 14
+weight = 15
 +++
 
 Schon Thelers Vater und Grossvater trugen den Doppelvornamen Johann Christian. Beide bestimmten das Geschick der Gemeinde Ausserberg mit. Der Grossvater liess als Gemeindepräsident die Pfarrkirche von Ausserberg bauen. Er starb 1854, nachdem er auf der Brücke bei St. German, von einem Hufschlag getroffen, in die hochgehende Rhone gestürzt und ertrunken war. Der Sohn Hanschristi[^1] erhielt während sieben Jahren bei seinem Onkel Paul Theler, Pfarrer in Grächen, eine gute Schulbildung, so dass man ihm schon als 15-Jährigem die Aufgaben des Gemeindeschreibers und Archivars übertrug. In der Folge wurden ihm weitere Ämter anvertraut; er war Waisenamtspräsident, führte die Zivilstandsbücher und war u.a. auch Steuerbuch-Schreiber, Revierförster und Alpinspektor.[^2]

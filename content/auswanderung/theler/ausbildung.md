@@ -3,7 +3,7 @@ title = "Ausbildung, Militärdienst, erste Berufserfahrungen"
 navTitle = "Ausbildung"
 slug = "theler-ausbildung-berufserfahrungen"
 date = 2021-06-05
-weight = 13
+weight = 14
 +++
 
 Der Vater erkannte schon früh das Geschick des Sohnes, mit einfachstem Werkzeug Holz zu bearbeiten. Als dieser einmal auf die hauseigene Schnapsbrennerei aufpassen musste, vertrieb er sich die Zeit, mit dem sägebestückten Sackmesser aus Kistenbrettern eine Spielzeug-Kommode mit drei Schubladen zu 'schreinern'. Vom Ergebnis beeindruckt, entschloss sich der Vater, ihn nach Ried-Mörel zu einem Schreiner, einem älteren Junggesellen, in die Lehre zu geben. Viel lernte er dort nicht. Wir erfahren wenig über den kurzen Aufenthalt, z.B. dass der Lehrling für sich selber kochen musste und dass der Meister dem Kaffee-Schnaps leidenschaftlich zugetan war. Als der Bursche wenige Monate später die Weihnachtszeit zu Hause verbrachte, vertrug er das dortige Essen nicht mehr, worauf er fünf Wochen krank im Bett lag. *In solchen Verhältnissen*, schreibt er, habe man *auf weitere Lehrzeit verzichtet*. Beim nächsten Lehrmeister ein Jahr später in Visp ging es ihm kaum besser. Statt in der Werkstatt zu lernen, musste der Junge im Sommer tagsüber heuen und emden, im Herbst Kartoffeln ernten und im Winter im Wald holzen. Abends nach dem Nachtessen wurde er dann noch in die Werkstatt geschickt. Dort musste er Holz sägen und grobe Bretter hobeln. *Und so ging die meiste Zeit 6 Monate lang, ohne etwas Ordentliches als Schreiner zu erlernen.*

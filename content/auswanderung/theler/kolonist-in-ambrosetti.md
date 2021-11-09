@@ -3,7 +3,7 @@ title = "Kolonist in Ambrosetti"
 navTitle = "Kolonist in Ambrosetti"
 slug = "theler-kolonist-in-ambrosetti"
 date = 2021-06-06
-weight = 9
+weight = 10
 +++
 
 Es traf sich, dass 1893/94 220 km nördlich von San Jerónimo Norte für die Sekundärkolonie Ambrosetti Land neu vermessen wurde. Dort siedelten sich innerhalb von zwei Jahren 40 Familien an, ausschliesslich Walliser Immigranten oder Nachkommen derselben. In SJ war die verfügbare landwirtschaftlich Nutzfläche längst verteilt; hier bekam man allerhöchstens Pachtland. Boden erwerben konnte man nur, wenn ein Kolonist den eigenen oder Teile davon verkaufte.
